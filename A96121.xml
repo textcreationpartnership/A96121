@@ -1,0 +1,1325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way to save wealth shewing how a man may live plentifully for two-pence a day. Likewise how to make a hundred noble dishes of meat, without either flesh, fish, or fowl. To make bread of roots, herbs, and leafs of trees. To brew good cheap liquor, without malt or hops. To make shoes last long. To make coals last long. To save soap in washing. To save cloth in cutting out a shirt. To make coffee of horse-beans To feed cattel well, without hay, grass, or corn. To save candles. To know any one's mind by signs; if there be twenty in company, they cannot apprehend it. To order bees aright. To settle your estate with Christian prudence. To know Scripture-weights and measures. Of dreams. To cure wounds by sympathy. The way to live long. To make spring-potage. To cure all sorts of cattle for 12 d. charge. To improve land, order and cure all deseases in singing birds. To kill vermin. To brew pale ales. To make wines, and all sorts of liquor, and an easy way to fine, and order them. With divers other curious matter</title>
+            <author>Tryon, Thomas, 1634-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 140 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96121</idno>
+            <idno type="STC">Wing W1172</idno>
+            <idno type="STC">ESTC R204135</idno>
+            <idno type="EEBO-CITATION">99895813</idno>
+            <idno type="PROQUEST">99895813</idno>
+            <idno type="VID">153741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2376:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way to save wealth shewing how a man may live plentifully for two-pence a day. Likewise how to make a hundred noble dishes of meat, without either flesh, fish, or fowl. To make bread of roots, herbs, and leafs of trees. To brew good cheap liquor, without malt or hops. To make shoes last long. To make coals last long. To save soap in washing. To save cloth in cutting out a shirt. To make coffee of horse-beans To feed cattel well, without hay, grass, or corn. To save candles. To know any one's mind by signs; if there be twenty in company, they cannot apprehend it. To order bees aright. To settle your estate with Christian prudence. To know Scripture-weights and measures. Of dreams. To cure wounds by sympathy. The way to live long. To make spring-potage. To cure all sorts of cattle for 12 d. charge. To improve land, order and cure all deseases in singing birds. To kill vermin. To brew pale ales. To make wines, and all sorts of liquor, and an easy way to fine, and order them. With divers other curious matter</title>
+                  <author>Tryon, Thomas, 1634-1703.</author>
+               </titleStmt>
+               <extent>[2], 72, [2] p. : port. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by G. Conyers at the Ring in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas Tryon.</note>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>At foot of title: Price 1s. 6d.</note>
+                  <note>With an advertisement at end.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hygiene --  Early works to 1800.</term>
+               <term>Saving and investment --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:153741:1"/>
+            <pb facs="tcp:153741:1" rendition="simple:additions"/>
+            <pb facs="tcp:153741:2"/>
+            <pb facs="tcp:153741:2"/>
+            <pb facs="tcp:153741:3"/>
+            <p>
+               <figure>
+                  <figDesc>portrait</figDesc>
+                  <q>
+                     <p>'Tis not he that poſſeſſeth moſt, but he that wanteth leaſt, that is the richeſt Man.</p>
+                  </q>
+                  <q>
+                     <p>To be content is to be rich, and theſe Riches any Man that will, may give himſelf.</p>
+                  </q>
+                  <q>
+                     <l>Content is all we aim at with our Store,</l>
+                     <l>If that be had with little, what needs more?</l>
+                  </q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:153741:3"/>
+            <p>THE Way to <hi>Save</hi> Wealth; Shewing how a Man may <hi>Live plentifully for Two-pence a Day.</hi> Likewiſe how to make
+<list>
+                  <item>A hundred Noble Diſhes of Meat, without either Fleſh, Fiſh, or Fowl.</item>
+                  <item>To make Bread of Roots, Herbs, and Leafs of Trees.</item>
+                  <item>To brew good cheap Liquor, without Malt or Hops.</item>
+                  <item>To make Shoes laſt long.</item>
+                  <item>To make Coals laſt long.</item>
+                  <item>To ſave Soap in Waſhing.</item>
+                  <item>To ſave Cloth in cutting out a Shirt.</item>
+                  <item>To make Coffee of <hi>Horſe-beans</hi>
+                  </item>
+                  <item>To feed Cattel well, without Hay, Graſs, or Corn.</item>
+                  <item>To ſave Candles.</item>
+                  <item>To know any one's Mind by Signs; if there be Twenty in Company, they cannot apprehend it.</item>
+                  <item>To order <hi>Bees</hi> aright.</item>
+                  <item>To ſettle your Eſtate with Chriſtian Prudence.</item>
+                  <item>To know Scripture-Weights and Meaſures.</item>
+                  <item>Of Dreams.</item>
+                  <item>To cure Wounds by Sympa<g ref="char:EOLhyphen"/>thy.</item>
+                  <item>The Way to Live long.</item>
+                  <item>To make Spring-Potage.</item>
+                  <item>To cure all ſorts of Cattle for 12 <hi>d.</hi> Charge.</item>
+                  <item>To improve Land, order and cure all Deſeaſes in ſinging Birds.</item>
+                  <item>To kill Vermin.</item>
+                  <item>To brew Pale Ales.</item>
+                  <item>To make Wines, and all ſorts of Liquor, and an eaſy Way to fine, and order them.</item>
+               </list> With divers other curious MATTERS, Adorn'd with Cuts.</p>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be Sold by <hi>G. Conyers,</hi> at the <hi>Ring</hi> in <hi>Little Britain.</hi> Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153741:4"/>
+            <pb n="3" facs="tcp:153741:4"/>
+            <head>THE Way to Live for Two-pence a Day.</head>
+            <div type="part">
+               <div type="introduction">
+                  <p>EXperience teacheth us, that Nature is ſa<g ref="char:EOLhyphen"/>tisfied with a little; and that little is alſo eaſily to be obtain'd; ſuch as <hi>Corn-food, Spring-water, Herbs, Roots, Fruit, Milk, Cheeſe,</hi> &amp;c. And for my own part, ſeriouſly when I feed upon Bread and Water, and ſometimes more ſplendidly, upon Bread and Cheeſe, and if I have but brown Bread, Haſty-pudding, Wheat, or Barley-broth, I think my Table ſo well furniſh'd, that I dare diſpute Felicity with any Perſon. By this way of living I am made ſuperiour to the frowns of Fortune; for, what Eſtate is there in this Life, that can reduce a Man to a lower ebb than Bread and Water? Whereas many that ac<g ref="char:EOLhyphen"/>cuſtom themſelves to live deliciouſly, frequently commit Robberies, Murder, and other deteſtable Villanies, to gratifie their Luxury and Profuſe<g ref="char:EOLhyphen"/>neſs. And I do affirm, that a Halfpennyworth of Flower, made into Pap or Haſty-pudding, with Water, or with Water, Milk, and Flower, and a Halfpennyworth of Bread to eat with it, and a lit<g ref="char:EOLhyphen"/>tle Salt, will make People as ſtrong as they that eat Fleſh, Fiſh, and Fowl. And farther: Living on Corn-food, you have ſmall occaſion to drink; and a little Bread, Cheeſe, and a Pennyworth of Ale, exhilerates a Man three times as much as Fleſh, Fiſh, or Fowl, with the ſame quantity of Drink.</p>
+               </div>
+               <div type="section">
+                  <pb n="4" facs="tcp:153741:5"/>
+                  <p n="1">1. Bread and Water takes place of all Foods, and are the foundation of dry and moiſt Nutriment; 'tis a good Food, and of an opening and cleanſing nature, and now and then will make a good Meal.</p>
+                  <p n="2">2. Take two ſpoonfuls of Wheat-flower or Oat<g ref="char:EOLhyphen"/>meal, put it into cold Water, and mix 'em well to<g ref="char:EOLhyphen"/>gether, ſtir this into two Quarts of Water over a quick Fire till it boil up, putting a little Salt and ſome Bread; or inſtead of Bread, an Onion boil'd in it will do. This will not coſt above a Farthing, and makes a noble exhilerating meal: You may make it thick or thin, as you like beſt; thick is beſt for healthy People.</p>
+                  <p n="3">3. Take a quart of Water made boiling hot, a ſpoonful of ground Oatmeal, and temper it with cold Water, then brew it into your Water, ſet it on the Fire till it boil up, then brew it again and it's done, put ſome Bread and a little Salt into it, then eat it; and this makes as good a meal as the World affords: If you make a meal of this alone, you may boil in it ſome Pot-herbs and Onions, and it's done.</p>
+                  <p n="4">4. Take four quarts of Water, and put a pint of Peaſe therein, then ſet 'em in the Pot on a gentle Fire, let 'em boil ſlowly for 3 or 4 hours, while they are ſoft and incorporated into Potage, add a little dry Sage rub'd into powder, and ſhred an Onion into it; you may put in a little Mint if you pleaſe, or any of theſe Herbs will ſerve. After your Herbs are boil'd, put two ſpoonfuls of Wheat-flower made into Batter with cold Water, and when your Potage boils up, 'tis done. This will make about two quarts, and will ſerve a labouring Man a Day, coſting not above three half-pence.</p>
+                  <p n="5">5. Take a quart of Water and ſet it on the Fire till it boils up, then put a ſpoonful of Oatmeal well mixt in 2 or 3 ſpoonfuls of cold Water, mix an Egg well in it, and put it to your boiling Water; put a
+<pb n="5" facs="tcp:153741:5"/> little Salt and Bread if you pleaſe to it, and this makes a noble meal.</p>
+                  <p n="6">6. Take Flower a ſufficient quantity, then add Water ſufficient to make it into a Paſte, put a little Salt and Ginger to it, and a little Yeſt; make your Dumplins as large as a Crown piece, and boil 'em; this is wholſom, nouriſhing, and pleaſant Food.</p>
+                  <p n="7">7. Take an equal quantity of Milk and Water, and when it begins to boil put in Flower, the uſual way of making Haſty-pudding, and eat it with Butter or with Milk: This is hearty and ſtrength<g ref="char:EOLhyphen"/>ning Nouriſhment.</p>
+                  <p n="8">8. Or Water and Flower, with a little Ginger, made into Haſty-pudding, and eat with Milk or Butter, is hearty Victuals.</p>
+                  <p>In many Countries you may have two quarts of Milk for a Penny, to which add a pint of Water, and not half a Penny worth of Flower, and make it into flower'd Milk, according to our Directions, and you will have a fine Diſh ſufficient for 4 Peo<g ref="char:EOLhyphen"/>ple, and ſtands but in three half-pence: Eat ſome Bread with it, and there's nothing affords better nouriſhment, and that to all Ages, eſpecially young People. If every one obſerves his time of eating, and his weight and meaſure of Food, great trouble and waſte may thereby be avoided. As to quantity of other Foods, we ſuppoſe ſixteen ounces of ſolid, (to wit) Bread, Cheeſe, Butter and Eggs, may be ſufficient 24 hours for a labouring Man: And the beſt time for eating (we ſuppoſe) to be about 8 in the Morning and 4 in the Afternoon. If the Food be flower'd Milk, then a pint of it, and 4 ounces of Bread and Butter, or Cheeſe, is ſufficient; if Wa<g ref="char:EOLhyphen"/>ter-gruel or Potage, a pint, and 4 ounces of Bread and Cheeſe; if raw Milk, the ſame; but, if flower'd Milk, with an Egg in it, three ounces of Bread and Butter, or of Cheeſe, will be ſufficient.</p>
+               </div>
+               <div type="section">
+                  <pb n="6" facs="tcp:153741:6"/>
+                  <head>Divers other Diſhes, not more healthful, but more toothſom, and very wholſom.</head>
+                  <p n="9">9. Bread and Butter eaten with our thin Gruel, wherein is nothing but Salt, is the moſt approved way of eating Water gruel; and the beſt way of eating it, is to bite and ſip, as you do raw Milk and Bread. This is a moſt curious and ſweet Food for the Stomach, of eaſie digeſtion, creates rare Blood and cauſes it to circulate freely.</p>
+                  <p n="10">10. Milk made boiling hot, and thickned with Eggs, is a brave ſubſtantial Food, of a friendly mild nature and operation.</p>
+                  <p n="11">11. Bread and Butter, or Bread and Cheeſe eat alone with waſh'd Sallads, with or without Salt, Oyl, or Vinegar, makes a dainty Food, of a clean<g ref="char:EOLhyphen"/>ſing quality, and light of digeſtion; the frequent eating of which ſweetens and creates rare Blood and fine Spirits; it prevents the generation of ſour Humors, and keeps the Body open: And all Herbs thus eaten are to be prefer'd before thoſe eat with Salt, Oyl, or Vinegar, be the Food what it will, eſpecially for Women, and all that are ſubject to generate muddy Diſeaſes.</p>
+                  <p n="12">12. Eggs broken and butter'd over the Fire, is excellent Victuals, being eat with ſtore of Bread; or Eggs roaſted or boil'd in their Shells, (roaſted being the beſt) eaten with Bread, Butter and Salt, or Bread and Salt, is very ſubſtantial.</p>
+                  <p n="13">13. Eggs, Sorrel, and Parſly mixt and ſtirr'd to<g ref="char:EOLhyphen"/>gether, and fry'd in a Pan with Butter and a little Salt, and when fry'd, put on 'em ſome Butter and Vinegar; 'tis a moſt excellent Diſh, and affords great Nutriment; but remember, there muſt not be a great many Herbs, for that will render it more heavy and dull.</p>
+                  <pb n="7" facs="tcp:153741:6"/>
+                  <p n="14">14. Parſly boll'd and cut ſmall, mixt with ſome Butter and Vinegar melted, and poach'd Eggs, makes a curious Diſh, gives great ſatisfaction to the Stomach, ſupplying Nature with Nutriment in the higheſt degree, and is pleaſant to the Palate.</p>
+                  <p n="15">15. Eggs beaten together and fry'd with Butter, and when fry'd melt ſome Butter and Vinegar and put over 'em, is a moſt curious and dainty Diſh, being much better than the uſual way of frying Eggs, they being lighter and more tender, and ea<g ref="char:EOLhyphen"/>ſier of digeſtion.</p>
+                  <p n="16">16. An Egg broke into a pint of Ale, and brew'd well together, and eaten with bread, make a brave meal, and hath a vigorous and quick Operation in the Stomach; in the Winter warm it, but in the Summer you may drink it cold.</p>
+                  <p n="17">17. Poach'd Eggs eaten with a Diſh of boil'd Spinage butter'd, is a curious Food, being eaten with plenty of bread, affords agreeable Nutriment.</p>
+                  <p n="18">18. Eggs mix'd with divers ſorts of Fruits, with Butter and Bread, made into Pies, is a kind and pleaſant Food, that a Man may eat now and then with great ſatisfaction to himſelf, and no leſs to Nature, provided it be not often.</p>
+                  <p n="19">19. Raw Eggs broke into Water-gruel that is thin, and brew'd well together, with a little Salt in it, and then eaten with Bread, or Bread and But<g ref="char:EOLhyphen"/>ter, makes a moſt delicate Food, and is very fit for all young People, being of a warming quality, and agreeable to the Stomach, creates fine Blood and brisk Spirits; for the often uſing this, and other Spoon-meats, do naturally ſweeten all the Humors, and prevents the generating of ſowre Juices, frees the paſſage from Windineſs and griping pains.</p>
+                  <p n="20">20. Artichokes boiled, and eaten with Bread, Butter and Salt, are an excellent Food, and create a ſubſtantial Nutriment; a Man may make a fine meal of them.</p>
+                  <pb n="8" facs="tcp:153741:7"/>
+                  <p n="21">21. Take one or two Eggs, beat them with a lit<g ref="char:EOLhyphen"/>tle Water, and take a pint of good Ale or Beer, ſweeten it with Sugar, then put it on the Fire, ma<g ref="char:EOLhyphen"/>king it boiling hot, but not boil, then brew them well together; this is a comfortable Food, or ra<g ref="char:EOLhyphen"/>ther a rich Cordial, which mightily repleniſhes Nature both with dry and moiſt Nutriment.</p>
+                  <p n="22">22. Aſparagus boiled, and eaten with bread, butter, and ſalt, is a moſt dainty Food, and affords a clean Nutriment; it is friendly to the Stomach, looſens the belly, powerfully purges by Urine, and opens Obſtructions.</p>
+                  <p n="23">23. Rice and Water boiled and buttered, is a friendly Diſh, and eaſie of digeſtion, and affords a good Nutriment.</p>
+                  <p n="24">24. Boiled Coleworts, Collyflowers, and Cab<g ref="char:EOLhyphen"/>bage eaten with Bread, Butter, Vinegar and Salt, the firſt of the three being the beſt, for they purge by Urine, looſen the Belly, and are eaſie of digeſti<g ref="char:EOLhyphen"/>on; but remember that you boil them in plenty of Water, over a quick Fire, and not too much; which muſt be obſerv'd in all the Preparations of Herbs and Grains.</p>
+                  <p n="25">25. Rice and Milk is alſo a dainty Food, affor<g ref="char:EOLhyphen"/>ding a ſubſtantial Nutriment, eſpecially if you put Sugar in it.</p>
+                  <p n="26">26. Green Beans boiled, and eaten with Salt, Butter, and Bread, is a moſt delicate Food. Let all People ſubject to windy Diſeaſes eat them ſpa<g ref="char:EOLhyphen"/>ringly.</p>
+                  <p n="27">27. The young buds of Coleworts and Spinage, boiled in plenty of Water, with a quick brisk Fire, and eaten only with Bread, Butter and Salt, is a fine delicate delightful Food, affording a clean Nutriment.</p>
+                  <p n="28">28. French Beans boiled in plenty of Water, with a brisk Fire, and eaten with Bread, Butter and Salt, makes a moſt curious and pleaſant Food, be<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:153741:7"/> of a cleanſing and opening nature, affording a good Nutriment, gently opens the belly, and pur<g ref="char:EOLhyphen"/>ges by Urine.</p>
+                  <p n="29">29. Endive, young Parſly, and Spinage, boiled and eaten with Bread, Butter, and Salt, is a curi<g ref="char:EOLhyphen"/>ous friendly exhilerating Diſh, makes rare Blood, and cleanſeth the paſſages.</p>
+                  <p n="30">30. Bread, Butter, and Sorrel makes a brisk Food, eaſie and quick of digeſtion, cleanſeth the Stomach, and creates a brisk Spirit.</p>
+                  <p n="31">31. Spinage boiled with the tops of Balm and Mint, ſeaſon'd with Salt and Butter, and eaten with Bread, makes a curious Diſh, affords excel<g ref="char:EOLhyphen"/>lent Nutriment, and is of a warming quality.</p>
+                  <p n="32">32. Carrots boiled, ſeaſoned with Butter and Salt, and eaten with Bread, is a curious Diſh, very pleaſant, wholſome, and eaſily digeſted.</p>
+                  <p n="33">33. Smallage makes a Potage or Gruel of a cleanſing quality, being eaten twice a day, is an effectual Remedy againſt all Conſumptive Hu<g ref="char:EOLhyphen"/>mors, it cleanſeth the Blood, and opens Obſtructi<g ref="char:EOLhyphen"/>ons of the Liver and Spleen.</p>
+                  <p n="34">34. Boiled Wheat buttered is a curious Diſh, affording a ſweet, friendly, and moſt agreeable Nu<g ref="char:EOLhyphen"/>triment, being eaſie of digeſtion, it creates fine thin blood.</p>
+                  <p n="35">35. Green Peaſe boiled, ſeaſoned with Salt and Butter, and eaten with Bread, makes a moſt deli<g ref="char:EOLhyphen"/>cate Diſh; but if not ſparingly eaten, are windy. Their Nutriment is not ſtrong.</p>
+                  <p n="36">36. Bread, Butter, and Radiſhes is very accepta<g ref="char:EOLhyphen"/>ble Food, affording ſubſtantial Nutriment; now and then a Man may make an indifferent meal thereof.</p>
+                  <p n="37">37. Boiled Turnips ſeaſoned with Salt and But<g ref="char:EOLhyphen"/>ter, and eaten with Bread, makes a very good Diſh of Food, eſpecially for all young People. They are eaſie of digeſtion, open and purifie the paſſages,
+<pb n="10" facs="tcp:153741:8"/> conſequently may with ſafety be eaten plenti<g ref="char:EOLhyphen"/>fully.</p>
+                  <p n="38">38. Sweet Charwell makes an excellent Potage, being eat with Bread, Butter, and Salt, is not only very agreeable, but the frequent uſe thereof puri<g ref="char:EOLhyphen"/>ties the Blood; 'tis a friend to the Lungs.</p>
+                  <p n="39">39. Parſnips boiled in plenty of Water, ſeaſon'd with Salt, Butter, Vinegar, and Muſtard, makes a curious hearty Diſh, and are agreeable to moſt Conſtitutions.</p>
+                  <p n="40">40. Light Puddings made of Bread and eat with Butter and Sugar, are very pleaſant to the Pa<g ref="char:EOLhyphen"/>late, and not ungrateful to the ſtomach, if ſparing<g ref="char:EOLhyphen"/>ly eaten.</p>
+                  <p n="41">41. Watercreſſes made into Potage, eaten with Bread, Butter, and Salt, is not only a good Food, but often eating thereof purifies the Blood, and prevents Fumes and Vapours from flying into the Head.</p>
+                  <p n="42">42. Boil'd or roaſted Potatoes eaten with But<g ref="char:EOLhyphen"/>ter, Salt, and Vinegar, makes a pleaſant Diſh, are eaſie of concoction, very grateful to the ſtomach; now and then a meal may do well.</p>
+                  <p n="43">43. Rice Puddings, both plain and made with Fruit, are for the moſt part a pleaſant ſort of Food, eaſie of Digeſtion, and may be freely eaten.</p>
+                  <p n="44">44. Take Currans, boil them in Water, when almoſt done, mix a little ſmall Oatmeal with two ſpoonfuls of cold Water, ſtir it in, and let it boil a little; when done, ſeaſon it with Salt, and put ſome Sugar to it; this eaten with Bread, makes a good meal. You may put in Butter, as moſt Houſewifes do; but I muſt tell 'em, that makes it heavy on the ſtomach, and apt to ſend Fumes into the Head.</p>
+                  <p n="45">45. Apple-Dumplins eaten with Butter, or But<g ref="char:EOLhyphen"/>ter and Sugar, is the beſt of all Dumplins, afford<g ref="char:EOLhyphen"/>ing a friendly Nouriſhment, and are eaſie of Di<g ref="char:EOLhyphen"/>geſtion.</p>
+                  <pb n="11" facs="tcp:153741:8"/>
+                  <p n="46">46. Mint makes a noble exhilerating Potage, frequent eating thereof not only prevents windy Humors in the Paſſages, but mightily ſtrengthens the retentive faculty of the ſtomach.</p>
+                  <p n="47">47. Pears, being full ripe, make an excellent Pye, and are a fine, gentle, friendly Food, eaſie of concoction.</p>
+                  <p n="48">48. Steep your Peaſe eighteen hours, then boil them in a pot with ſome ſweet Herbs, and an Oni<g ref="char:EOLhyphen"/>on ſtuck with Cloves. This is a pleaſant whol<g ref="char:EOLhyphen"/>ſom Food.</p>
+                  <p n="49">49. Take Sorrel, Lettice, Bete, Purſlain, and a bundle of Herbs, boil them together with Salt, Butter, and the cruſt of a Loaf ſoakt: This is an excellent Potage.</p>
+                  <p n="50">50. Potage of Colewort-ſprouts is made thus: boil them in Water, Salt, Peaſe-broth, Butter, Onion ſliced, and a little Pepper, then ſoak your Bread, garniſh it with Sprouts, and fill your Diſh therewith.</p>
+                  <p n="51">51. Potage of French-barley is made by putting your Barley (being cleans'd from Duſt) in boiling Milk; being boiled down, put in it large Mace, Cream, Sugar, and a little Salt, boil it indifferent thick, and it's eatable.</p>
+                  <p n="52">52. Bread, Butter, and Sage affords great Nou<g ref="char:EOLhyphen"/>riſhment, expels Wind, and warms the ſtomach.</p>
+                  <p n="53">53. Garlick-potage is chiefly good for corpulent People, and ſuch as are troubled with Coughs, the Stone or Gravel.</p>
+                  <p n="54">54. Take your Sallad-herbs, ſuch as you moſt like, and put ſome Vinegar, Muſtard, and Oyl well beaten together to your Herbs; it is an excellent Sallad eaten with Bread only, or with Fleſh, if you muſt needs eat Fleſh.</p>
+                  <p n="55">55. A piece of Bread and a few Raiſins in the Sun make an excellent meal, a pint of Ale or Beer being drank after it.</p>
+                  <pb n="12" facs="tcp:153741:9"/>
+                  <p n="56">56. Clary ſhred and Eggs, beat well together and fry'd with Butter, is an excellent Diſh, eſpe<g ref="char:EOLhyphen"/>cially for ancient People.</p>
+                  <p n="57">57. Take a Cabbage-leaf, ſhred it very ſmall, put a little Vinegar Pepper and Oyl to it; this is as pleaſant as Cucumbers to Fleſh-eaters.</p>
+                  <p n="58">58. The young tops of Aſparagus boil'd, makes an excellent meal, eaten with Bread and Butter.</p>
+                  <p n="59">59. A Root that grows, call'd Mercury, if the tops (which ſomething reſemble Aſparagus) be boil'd, and eaten with Butter and Bread, 'tis an excellent Food, being of a cleanſing quality.</p>
+                  <p n="60">60. Shadown or Holy-thiſtle boil'd, with Butter and Vinegar put to it, makes an excellent meal, eaten with Bread.</p>
+                  <p n="61">61. Pumpkin fry'd, with Vinegar and Butter put to it, makes a good meal, eaten with Bread only.</p>
+                  <p n="62">62. Whole Oatmeal boil'd in a Pot or Pipkin, but firſt let the Water boil; being boil'd tender, put in Milk or Cream, with Salt and freſh Butter, eat it with Bread.</p>
+                  <p n="63">63. Alixander and Oatmeal together, pickt and waſht, when it boils put in your Herbs, Oatmeal and Salt; boil it on a ſoft Fire, make it not too thick; being almoſt enough, put in ſome Butter: Eat this with Bread, and it makes an excellent meal.</p>
+                  <p n="64">64. Peaſe put into boiling Milk or Cream, with two or three ſprigs of Mint; being tender, ſalt 'em and thicken 'em with a little Milk and Flower: This makes an excellent Food.</p>
+                  <p n="65">65. Green Corn taken as it grows, or a little parch'd or dry'd againſt the Fire, or ſteept or boil'd in Wine, affords in hard Times a reaſonable ſubſiſtence.</p>
+                  <p n="66">66. Bread and Milk, as it comes from the Cow, or raw, is very good, ſweetning the Blood.</p>
+                  <pb n="13" facs="tcp:153741:9"/>
+                  <p n="67">67. Eggs boil'd in the Shells or roaſted, eaten with Bread and Salt, and ſometimes Butter, is nouriſhing Food.</p>
+                  <p n="68">68. Eggs with Flower and Water made into a Pap on the Fire, is a noble Food, affording brave clean Nouriſhment.</p>
+                  <p n="69">69. An Egg or two beaten and brew'd in a pint of raw Milk, is a noble ſubſtantial Food; if the weather be cold, you may warm the Milk.</p>
+                  <p n="70">70. There are ſeveral Foods made with Milk, as Cuſtards, Cheeſe-cakes and Whitepots; theſe nou<g ref="char:EOLhyphen"/>riſh much, but are not to be eaten too frequently.</p>
+                  <p n="71">71. Boil'd Puddings made with Flower, Milk, Eggs, Raiſins, and Currans, being well butter'd, 'tis pleaſant Food.</p>
+                  <p n="72">72. Wheat boil'd and butter'd, is a noble Diſh; with this alone a Man may make a better meal than with Princely Varieties, and it affords good Nouriſhment.</p>
+                  <p n="73">73. Smallage, Sallary, Leek or Onion Potages or Gruels, nouriſh the body, and purify the blood.</p>
+                  <p n="74">74. <hi>To make an Apple or Pear-Tart.</hi> Furniſh your Tart-pan with a Coffin of Paſte, and lay a bed of Sugar into it, filling it up with the mellow of Ap<g ref="char:EOLhyphen"/>ples or Pears pared and ſhred ſmall, or cut in ſli<g ref="char:EOLhyphen"/>ces, the ſeeds and cores being taken out, mingle Pine-Apple-kernels therewith, as alſo Currans and the peel of preſerv'd Lemon; if you pleaſe, pow<g ref="char:EOLhyphen"/>der the whole with a little beaten Cinnamon, put thereto ſome Sugar at diſcretion, and a little freſh Butter, about the bigneſs of a Walnut, or there<g ref="char:EOLhyphen"/>abouts, for an indifferent Tart: Cover this Tart in the ſame manner as you do other Fruit-Tarts, and put it into the Oven after you have varniſh'd it; and after it is baked, you may ſcrape a little Loaf-ſugar upon it, and ſprinkle ſome Roſe-water on it, and ſo keep it for uſe.</p>
+                  <pb n="14" facs="tcp:153741:10"/>
+                  <p n="75">75. <hi>To poach Eggs.</hi> You muſt put ſome Poached Eggs into a Diſh, a few or many, add a little Salt to them, and pouder them alſo with Sugar, and ſprin<g ref="char:EOLhyphen"/>kle them with a little Roſe-water, or Verjuice, or Lemon-juice, or Orange juice, unto which you may add a little beaten Cinamon or Cinamon-water, which will give them a good reliſh.</p>
+                  <p n="76">76. <hi>How to dreſs a Diſh of Eggs without any But<g ref="char:EOLhyphen"/>ter.</hi> Beat as many Eggs as you pleaſe into a good large Silver-diſh, Whites and Yolks together, after which, ſet your ſaid Diſh over a Chaſing-diſh of hot Charcoal thoroughly lighted, putting nothing to them, but ſtir them continually with a Silver-ſpoon; ſo that they may not be hard, nor ſtick to the Diſh, and when they are Poached enough to your Fancy, take them off from the ſaid Chaſing-diſh, and put to them a good quantity of Orange-juice, and ſeaſon<g ref="char:EOLhyphen"/>ing them well with Salt, and if you pleaſe, pouder them with good ſtore of Sugar and Cinamon, not forgetting to put grated Nutmeg into them, as you are a ſtraining of them; and before your Orange<g ref="char:EOLhyphen"/>juice is poured upon 'em, this kind of moiſtening or poaching of Eggs is leaſt offenſive to the Palate, and leſs nauſeous to the Stomach, which is very often overcharg'd by putting Butter to 'em.</p>
+                  <p n="77">77. <hi>To make an Omcelet ſtufft with Herbs.</hi> Mince all kind of ſweet Herbs, and the Yolks of Eggs hard together, ſeaſon the whole with Salt: You may alſo add ſome Muſhrooms half boil'd, and ſome Currans, put theſe minc'd Ingredients on a Plate or Diſh, and cover 'em over with a flabby or limber Omcelet, and ſtrow Sugar and Cinamon upon it, if you pleaſe.</p>
+                  <p n="78">78. <hi>A Pippin Tart.</hi> Take eighty Pippins, pare 'em and quarter 'em, and then your Paſte being rai<g ref="char:EOLhyphen"/>ſed, lay in your Quarters as thick as you can, then put to 'em a little whole Cinamon and Ginger, and a few Cloves, with a pound and half of Sugar, and ſo, bake 'em. When you have cloſed your Tart, ſugar it at the top, and ſo ſerve it.</p>
+                  <pb n="15" facs="tcp:153741:10"/>
+                  <p n="79">79. <hi>A Potatoe Pye.</hi> Boil your Potatoes tender, then peel 'em, let 'em be cold, ſeaſon 'em with beaten Cinamon, Nutmegs, and a little Pepper; let the pieces of your Potatoes be cut indifferent, and fill up your Pye, and then put the Marrow of 2 or 3 Bones to 'em, and ſome Dates cut in half, a little Mace, ſome Barberries, or Grapes, or Lemons, ſome Citron-Suckets; then put in half a pound of Butter, and cloſe it, and bake it. moiſten it with the Liquor you do a Chicken-pye with.</p>
+                  <p n="80">80. <hi>An Artichoke Pye.</hi> Take Artichokes and cut away the green Leafs from the bottom, till the Bones look white, then boil the bottoms as much as if they were to be eaten; take out the Core, and ſea<g ref="char:EOLhyphen"/>ſon the Bottoms, (being cut in four parts, as you did the Potatoes) put all things into that Pye, and bake it, and liquor it as the other.</p>
+                  <p n="81">81. <hi>To make Haſty-pudding.</hi> Take a pint of Cream and ſet it over the Fire, with a blade of Mace, when it boils put in a ſpoonful of Flower, but not let it knob; then take the Yolks of 3 Eggs and beat them with ſome Sugar; ſo ſtir them, and let them boil till you perceive the Butter round the edges of the Skil<g ref="char:EOLhyphen"/>let: pour it into the Diſh, ſet it over Coals, and cover it; you muſt keep it ſtirring in the Skillet.</p>
+                  <p n="82">82. <hi>To make Gooſeberry-fool without Milk.</hi> Take a pint of Gooſeberries, ſcald them, break them very ſmall in ſome of the Water that ſcalded 'em, then beat the Yolks of two or three Eggs with a ſpoonful of Roſe-water; ſtir in a good piece of Butter to melt; then put in your Eggs. Sweeten it to your mind, and put it over the Fire to thicken, and diſh it to eat hot or cold.</p>
+                  <p n="83">83. <hi>To make a Papiſt Pudding.</hi> Take a quart of Milk, a quarter of a pound of Rice, a little Spice, half a pound of Currans, mingle all well together, butter your Diſh, ſo bake it.</p>
+                  <p n="84">84. <hi>Panadoes.</hi> Boil Water in a Skillet, put to it
+<pb n="16" facs="tcp:153741:11"/> grated Bread or Cakes, good ſtore of Currans, Mace and whole Cinamon: being almoſt boil'd, and indif<g ref="char:EOLhyphen"/>ferent thick, put in ſome Sack or Whitewine, Sugar, ſtrained Yolks of Eggs; otherways, with Bread, Water, Currans, and Mace; being well boil'd, put to it ſome Sugar, Whitewine, and Butter.</p>
+                  <p n="85">85. <hi>Poſſet of Herbs.</hi> Take a fair ſcowr'd Skillet, put ſome Milk into it, and ſome Roſemary; the Roſemary being well boil'd in it, take it out, and have ſome Ale or Beer in a Pot, put to it the Milk or Su<g ref="char:EOLhyphen"/>gar, or none. Thus of Thyme, Carduus, Camomil, Mint, or Marigold flowers.</p>
+                  <p n="86">86. Potatoes cleans'd and boil'd, with a little But<g ref="char:EOLhyphen"/>ter put to them, and eat with Bread, or without, make a good meal.</p>
+                  <p n="87">87. Colliflowers well boil'd, and a little Salt put to 'em, and diſh'd up with Sippets round 'em, and a little Butter and Water. or Juice of Lemon or O<g ref="char:EOLhyphen"/>range, makes a noble Diſh.</p>
+                  <p n="88">88. Gourds, Pumpions, Cucumbers, or Muskme<g ref="char:EOLhyphen"/>lons, cut in pieces, par'd, cleans'd, and put into boiling Water; when it boils put in the Pumpion, or other things, which you think fit, with ſome Salt; being boil'd, drain 'em well from the Water, but<g ref="char:EOLhyphen"/>ter 'em, and ſerve 'em on Sippets. Otherwiſe, bake them in an Oven, and take out the Seed at the top, fill them with Onions, ſlie'd Apples, Butter and Salt; butter them, and ſerve 'em with Sippets, as before.</p>
+                  <p n="89">89. <hi>To dreſs French Beans or Lupins.</hi> Firſt take away the tops of the Cods, and the Strings, then have a Pan or Skillet of fair Water boiling on the Fire; when it boils, put them in with ſome Salt<g ref="char:punc">▪</g> and boil them up quick: being boil'd, ſerve 'em up with ſome Butter, in a Diſh with ſome Salt round it.</p>
+                  <p n="90">90. <hi>To dreſs Garden Beans.</hi> Being ſhell'd and cleans'd, put 'em into boiling Liquor with ſome Salt; boil 'em up quick, and when ſo done, drain
+<pb n="17" facs="tcp:153741:11"/> away the Liquor and butter 'em; put 'em in the Diſh croſs-wiſe, and ſerve 'em up with Pepper and Salt on the brim of the Diſh. Thus alſo green Peas, Haſlers, Broom-buds, or any kind of Pulſe.</p>
+                  <p n="91">91. Cut the tops of Beans when they have codded, boil and butter e'm, and they make an excellent Diſh eaten with Bread.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>SALLADS.</hi>
+                  </head>
+                  <p n="92">92. Take Sorrel, Parſly and Spinage, Lettice, and ſome few Onions; then add Salt, Vinegar and Oil, a good quantity: If you cannot get Oil, good Butter melted may ſerve as well, for it is ſcarce diſ<g ref="char:EOLhyphen"/>cernable from Oil; but let the Salt predominate. Eat Bread only with the Sallad, which is better than if you eat Bread and Meat, or Bread and Butter, or Cheeſe.</p>
+                  <p n="93">93. <hi>Another.</hi> Take Sorrel, Lettice, Pepper, Graſs, Spinage, Tops of Mints, and Onions, ſeaſoned as before.</p>
+                  <p n="94">94. <hi>Another.</hi> Take Sorrel, Lettice, Cellery, Spi<g ref="char:EOLhyphen"/>nage, Onions, and Endive, ſeaſoned as before.</p>
+                  <p n="95">95. <hi>Another.</hi> Sage, Mint, Penniroyal, Balm, and ſome Lettice and Sorrel; eat them as before: This is brave Sallad.</p>
+                  <p n="96">96. <hi>Another.</hi> Young green Buds of Coleworts with Onions, is a good Sallad, ſeaſoned as before.</p>
+                  <p n="97">97. <hi>Another.</hi> Taragan, Nettle-tops, Penniroyal, Mint, Parſly, Sorrel, Lettice, and leaves of Cole<g ref="char:EOLhyphen"/>worts eat as before, is an excellent Sallad, if ſea<g ref="char:EOLhyphen"/>ſoned to the higheſt degree.</p>
+               </div>
+               <div type="section">
+                  <head>A <hi>SALLAD</hi> for <hi>Winter.</hi>
+                  </head>
+                  <p n="98">98. Parſly, old Onions, Endive, Cellery, Lettice, Sorrel and Colewort-plants, ſeaſoned with Salt, Oil and Vinegar, is an excellent warming and cheriſhing Sallad.</p>
+                  <p n="99">99. <hi>Another.</hi> Take Cellery, Endive, Spinage and Lettice, and half a head of Garlick in it, ſeaſoned with Salt, Vinegar and Oil; this is a brave Sallad.
+<pb n="18" facs="tcp:153741:12"/> Sallads are good at all times, but moſt proper from the end of <hi>January</hi> to the firſt of <hi>July:</hi> Then again from <hi>September</hi> till <hi>December;</hi> and indeed all Win<g ref="char:EOLhyphen"/>ter, if the Weather be open.</p>
+               </div>
+               <div type="section">
+                  <head>In <hi>SPRING.</hi>
+                  </head>
+                  <p n="100">100. Spinage, Corn-ſallad, Nettle-tops, and the buds of young Cabbage, and others of like nature, being boil'd, is an excellent corrective to them that eat F<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſh-meat; they looſen the Belly, and open Ob<g ref="char:EOLhyphen"/>ſtructions. In <hi>April, May</hi> and <hi>June,</hi> eat Spinage, Parſly, Lettice, Mint-tops, Borage, Scurvy, Danda<g ref="char:EOLhyphen"/>lion, Cornfry, and the like, boil'd in plenty of Water over a brisk Fire; add to them Butter melted, and ſome Salt; then eat with Bread, or Bread and Fleſh, is good Food.</p>
+                  <p n="101">101. <hi>Sallads to be had, eſpecially in Spring, that coſts nothing but the labour, fit to boil and eat with or with<g ref="char:EOLhyphen"/>out Fleſh-meat; all very wholſom.</hi> Young Nettle<g ref="char:EOLhyphen"/>tops are very wholſom and well-taſted, Dandalion is the ſame, very wholſom and well-taſted, only you muſt let it lie 20 or 24 Hours in Water, that takes away its bitterneſs: This is much eat by French Peo<g ref="char:EOLhyphen"/>ple. Comfry is excellent Food, it grows in Marſh<g ref="char:EOLhyphen"/>ground generally. Goats-beard, or Tragopogan grows in Marſhes; its an excellent boil'd Sallad. Turnip-tops, Radiſh-tops, tops of young green Peaſe, or tops of Beans. Turnip-tops running to Seed, boil'd, eats like Aſperagus, Ladies Thiſle, call'd by ſome Shadown, is very wholſom; tops of Mallows, young, eat well, Watercreſſes, Smallages and Clivers make Spring-pottage, or eat well boil'd, Garlike, Mer<g ref="char:EOLhyphen"/>cury, or Blite eats like Aſperagus boil'd; Hop-buds eat very well, Redſhanks, Alixander Leaves and Stalks. Roots of Arum boil'd eat well, ſo does Aſhwood Jump about; Corn-ſallad, Redbeet Roots eat as well as Car<g ref="char:EOLhyphen"/>rots, Wheat in the blade 5 or 6 inches high, cut the rank part and boil it, eats well; tie it in Bundles as you do Noſegays: young Daſy Roots are generally
+<pb n="19" facs="tcp:153741:12"/> eaten by <hi>Spaniards</hi> and <hi>Italians</hi> all the Spring, till <hi>June.</hi> Alixander are of the nature of Parſly, the Sprouts, Buds and Tops are beſt eat in Spring. All kind of Docks, <hi>Cole</hi> ſays, has this property, That Meat boil'd therewith, tho' never ſo tough, will be tender and fit to eat; and, that Calamint laid among ſtinking Meat, when it is raw, will recover it: And <hi>Evelyn</hi> ſays, That the ſharp pointed Dock brew'd in Ale or Beer, are excellent for the Scorbute or Scurvy. Jackly-the-Hedge, or All-Sauce, is a good Sallad, it grows under Hedges and Banks. Muſhrooms boil'd and pick'd, ſtew'd with a little Vinegar, Peper, But<g ref="char:EOLhyphen"/>ter and Spice, eats very well; and ſo they do well pickled. Vine-Clapers, or Tendrels, whilſt young, may be eat alone, or with other Sallads; and <hi>Evelyn</hi> ſays, That the common Burdock about <hi>April,</hi> when young, before the Burrs and Clotts appear, being ſtript and the bitterneſs ſoaked out and then boil'd, or eat raw, is a good Sallad.</p>
+               </div>
+               <div type="section">
+                  <head>The beſt way to make <hi>Herb-Pottage.</hi>
+                  </head>
+                  <p n="102">102. Smallage, Clivers, Watercreſſes, Elder-buds and Nettle-tops; put Water to them proportionable to your Herbs; then add Oatmeal, as much as you think fit to leave it in thick: When the Water is ready to boil, put your Herbs in, cut, or uncut; then when it is again ready to boil, take a Spoon or Ladle, and lade it, ſo that you keep it from boiling; do this 8 or 9 Mornings, then take it off, and eat it blood<g ref="char:EOLhyphen"/>warm with the Herbs in it, or ſtrained; adding a lit<g ref="char:EOLhyphen"/>tle butter, ſalt and bread. This is an admirable cleanſing Pottage.</p>
+                  <p n="103">103. <hi>Another.</hi> Spinage, Corn-ſallad, the tops of Penniroyal and Mint, ordered and eat as before.</p>
+                  <p n="104">104. <hi>Another.</hi> Take the young and tender Stalks of Turnips and of Cabbages, when they firſt run up in the Spring, boil them and peel them, and put but<g ref="char:EOLhyphen"/>ter, vinegar and pepper to them, and eat them with bread.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:153741:13"/>
+               <head>A cheap way to Live in Caſe of great <hi>Scarcity</hi> or <hi>Famine.</hi>
+               </head>
+               <div type="section">
+                  <head>To take away the Unſavory Rank Taſte of Peaſe, Beans, Beech-maſt, Acorns, Cheſnuts, Vetches, and ſuch like.</head>
+                  <p>BOil your Beans, Peaſe, <hi>&amp;c.</hi> in clean Water, and if they are not pleaſing enough, change the Water again, and at the ſecond or third time, you will find a great alteration in Taſte, then dry them, and if you pleaſe, you may hull them, or grind them unhull'd; if you pleaſe, you may put a third part or a fourth (of Wheat-flower) to it, and make bread thereof: Or you may make good bread without any wheat added to them. Or for better Expedition, you may take the ground-meal of them, and infuſe warm Water thereon, and as it begins to cool, drain it away, and put on freſh warm Water, till the taſte pleaſe you; then dry up the meal, and make bread thereof, either ſimply of it ſelf, or compounded as before, <hi>Probatum est.</hi>
+                  </p>
+                  <p>But if you are not content with this Preparation, you may work it into Paſte, with a Liquor firſt ſtrengthned with ſome bruiſed Aniſeeds, Liquorice or ſweet Fennel Seeds, or with the Seeds themſelves incorporated in the Paſte; or to ſave charge, with Peperwort, Time, Winter-ſavory, Penniroyal, <hi>&amp;c.</hi> and this is hearty, and wholſom, and nouriſhing. What is here ſpoken of Peaſe, Beans, <hi>&amp;c.</hi> may be generally underſtood of all other Grain, Plants, Seeds, Pulſe, Roots, <hi>&amp;c.</hi> and that <hi>that</hi> is ſerviceable in Meat, will be much more tollerable in Drink.</p>
+                  <p>It's ſaid, that Allom rowl'd five or ſix times a day in the mouth, has kept alive fifteen or twenty days.</p>
+                  <pb n="21" facs="tcp:153741:13"/>
+                  <p>Wheat Straw chopt into ſhort pieces, and ground with ſome proportion of Wheat into Meal, has been made good Bread; but you muſt grind it well in a Steel or Hand-mill.</p>
+                  <p>Some ſay, a ſmall quantity of Liquorice-Roots chowed, will ſatisfie both Hunger and Thirſt.</p>
+               </div>
+               <div type="section">
+                  <head>To make Bread of the Root of <hi>Aron,</hi> called <hi>Cuckoo<g ref="char:EOLhyphen"/>pit,</hi> or <hi>Starch-Root.</hi>
+                  </head>
+                  <p>The Roots that are large muſt be cleanſed from the Skin and Filth, then cut into ſlices ſmall, then ſeeth them in boiling Water ſo long as you find the Water hot and biting, and till the Root begins to wax ſweet; then change your Water, and pour freſh upon them, and ſo continue doing till the Water becomes ſweet, and the Roots have loſt their Acri<g ref="char:EOLhyphen"/>mony. Take them out, and lay them abroad upon Canvas ſupported with Frames; and being dry, grind them, and they make a very white meal, which of it ſelf, or by mixing of a third with Wheat-meal, makes ſavory bread, and the beſt Starch: gather it in <hi>March</hi> or <hi>April</hi> be ſure; Turnips will do the like.</p>
+                  <p>Pompions mixed with a little meal, makes ſavory bread; and if you put Sugar or other Sauce on it, it is a delicate Diſh.</p>
+                  <p>Take your great and ſweet Parſnip Roots, and cut them in thin ſlices, and having waſhed and ſcra<g ref="char:EOLhyphen"/>ped them clean, dry them, and beat them into Pow<g ref="char:EOLhyphen"/>der, or grind them, ſifting them through a fine Sieve; put two parts of Flower to one of this Pow<g ref="char:EOLhyphen"/>der, and make it into Cakes, and theſe taſte daintily. <hi>Query,</hi> Whether Turnips, Carrots, and the like Roots, will not do as well?</p>
+                  <p>All manner of Pulſe, as Beans, Vetches, Lentils, and ſuch like, firſt rub'd over in Lee, and then hull'd, and after ground, will yield fair meal, and better bread.</p>
+                  <pb n="22" facs="tcp:153741:14"/>
+                  <p>A Poultice made of Flower or Meal, ſodden among Pears, Apples, Plumbs, or the like Fruit, or of ſome Bread and Water, or Broth of Fleſh, or Milk, well<g ref="char:EOLhyphen"/>boil'd together, fills the Stomach to content.</p>
+                  <p>Suchlike Compoſition made of Biſquet, dry, hard, or ſtale, make Bread, affords good Food.</p>
+                  <p>Cheeſe mixed, and wrought up with meal, make<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a glutting ſort of Food.</p>
+                  <p>Meal and Oil of Olives, or other Fruit or Seeds mixed together, may be made into Bread.</p>
+                  <p>Dough kneaded with Ale-wort or Wine, is hearty Food.</p>
+                  <p>You may make bread of the powdred or ground leaves of the Pear-Tree, Apple-Tree, Beech, Oak, and ſo likewiſe Drink.</p>
+                  <p>So likewiſe, white Poplar being cut off cloſe by the ground, and water'd with warm Water, well ſeaſon'd with Leven, in four days ſpace will bring forth ex<g ref="char:EOLhyphen"/>cellent Muſhrooms.</p>
+                  <p>A bread may be made of the Rape, or Navew, be<g ref="char:EOLhyphen"/>ing firſt ſcorched after ſodden, then baked.</p>
+                  <p>Bread is made of Panick or of Millet, whoſe Seed even in a ſmall quantity, ariſes greatly in Subſtance.</p>
+                  <p>Bread and Drink may be made of Lentils.</p>
+                  <p>Bread made of Flower of dry Beans, is ſtrong in Nouriſhment, and may be corrected of his Taſte, by adding Cummin-ſeed.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>DRINKS.</hi>
+                  </head>
+                  <p n="1">1. Water it ſelf is an excellent Drink; or take a Spoonful of ground Oatmeal, and incorporate it into a quart of clear Water, pouring it out of one Veſſel or Pot into another, fifteen or twenty times, and its excellent againſt Gravel, Stone, Scurvy, or moſt other Diſtempers whatever. In Winter, make it blood-warm, or I think it better if juſt boiled in<g ref="char:EOLhyphen"/>to a thin Gruel.</p>
+                  <pb n="23" facs="tcp:153741:14"/>
+                  <p n="2">2. <hi>Another.</hi> Gather the tops of Heath, whereof the uſual Bruſhes are made, and dry them, and keep them from moulding, then you may at all times brew a cheap Drink, which is very wholſom for the Liver and Spleen; if you put a little Liquorice into it, it will be much pleaſanter; and alſo a little Treacle.</p>
+                  <p n="3">3. <hi>Another.</hi> Water and Vinegar is a pleaſant Drink; or a quart of Water, and five or ſix Spoon<g ref="char:EOLhyphen"/>fuls of <hi>Aqua Compoſita,</hi> a ſmall quantity of Sugar, a little Borrage, or a branch of Roſemary, all brew'd together.</p>
+                  <p n="4">4. <hi>How to Brew good and wholſom Beer without any Hops at all.</hi> Take Wormword that is either cut down in the Leaf before it is Seeded, or being Seed<g ref="char:EOLhyphen"/>ed, that is cut into ſhort pieces, whereby there may be an equal mixture of the whole bulk together; for you muſt note, that the Seeded tops are much ſtrong<g ref="char:EOLhyphen"/>er and more oily than the reſt of the leaves or ſtalks: Make firſt a Decoction of four ounces of Hops with nine gallons of Water, which is the proportion that ſome Brewers (in ſome ſort of Drink) do uſe, and when you have gotten out by Ebullition, the full ſtrength and virtue of them, keep the ſame apart, and begin likewiſe with ſome ſmall proportion of Wormwood to the like quantity of Water as before; and when you have beſtow'd as much time and fire herein, as you did about the Hops; you may taſte each of them by it ſelf, and if you find it to exceed the firſt in bitterneſs, then begin with a leſs pro<g ref="char:EOLhyphen"/>portion of Wormwood, and ſo reiterate your work, until you have equally matched the one with the other; then you may ſafely proceed by the Rule of Proportion, to a Barrel, and ſo to a Tunn, and on to a whole Brewing. Many Perſons put Broom into Beer inſtead of Hops. Some ſay, that Centaury, Artichoke leaves, or Aloes Hipatique, will perform the ſame. <hi>Platt's Jewel-houſe,</hi> pag. 1, 3.</p>
+                  <pb n="24" facs="tcp:153741:15"/>
+                  <p n="5">5. <hi>To Brew without Hops.</hi> Take Sage, Tamarisk, tops of Pine or Firr; <hi>Bartholine</hi> commends it to Brew withal, as much better than Hops; for it is reckon'd excellent againſt the Scurvy, boil'd in your Liquor.</p>
+                  <p n="6">6. <hi>Herbs that will ſerve in Brewing, as well as Hops, and for many Conſtitutions much better.</hi> As Balm and Penniroyal, Mint, Tanſie, Broom, Worm<g ref="char:EOLhyphen"/>wood, Centaury Carduus, Eye-bright, Sage, Betony, Dandalion, and good Hay. <hi>Note,</hi> That you gather theſe Herbs in their proper Seaſons, and dry, for they are not near ſo good if uſed Green: if you infuſe Broom, Wormwood, Carduus, or any other that ex<g ref="char:EOLhyphen"/>ceeds in bitterneſs, let them not lie in your Wort a<g ref="char:EOLhyphen"/>bove half an hour, but a quarter of an hour is enough, if you put in a good quantity.</p>
+                  <p n="7">7. Inſtead of Malt, the Liquor of Beech is com<g ref="char:EOLhyphen"/>mended, for making an excellent wholſom Drink.</p>
+                  <p n="8">8. Potatoes rightly ordered, makes good Beer or Bread.</p>
+                  <p n="9">9. Take a quart of fair Water, a ſpoonful of Vinegar, or <hi>Aqua Compoſita,</hi> and a ſpoonful of Su<g ref="char:EOLhyphen"/>gar, and add (if have it) ſome Borage or Roſemary, and brew them well together.</p>
+                  <p n="10">10. <hi>Another.</hi> Take a buſhel and a half of good Wheat-bran, and a gallon of Moloſſus, and ſome Ginger; add Water to it, and it will make a barrel of good Table-beer. <hi>Houghton's Collect.</hi> No. 94. Vol. 4.</p>
+                  <p>
+                     <hi>Another excellent Drink.</hi> Take a quart, or 2, or 3 of Water, and ſome white Sugar and Nutmeg; brew them well together, and it makes a pleaſant and wholſom Drink: A ſpoonful of Treacle and a quart of Water mix'd, is excellent taſted Drink, and is good againſt Coughs.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="25" facs="tcp:153741:15"/>
+               <head>To reſtore to Health Conſumptive People.</head>
+               <div type="section">
+                  <p>COnſumptions are a Decay of the Radical Moi<g ref="char:EOLhyphen"/>ſture, whereby the natural heat of the Stomach is ſo weakned, that it cannot make a due Separation of Meats and Drink received, which cauſes from thence to ariſe abundance of bad Juices or Phlegm; ſo that no good Nouriſhment can be bred, let the Food be never ſo Rich, nor the Drink ſo Cordial, which all People afflicted find by Experience. But theſe Diſtempers proceed likewiſe from various Cauſes. As,</p>
+                  <p>1. From over-charging Nature with too great quantities of rich Food; or in others, by drinking much Brandy, Wine and ſtrong Drinks, which weak<g ref="char:EOLhyphen"/>ens the natural Heat, and deſtroys the Action of the Stomach. In others, an idle, ſedentary courſe of Life, or want of proper Exerciſes; lying in Bed too long, too warm Cloathing, and too ſoft Feather or Down Beds, which proves always prejudicial to the Health of all Perſons. It is cauſed ſometimes by too much frequenting the School of <hi>Venus,</hi> provoking Nature beyond her Ability, and oft-times corrupts her in her very <hi>Radix.</hi> Young marryed People, as well as the moſt Lewd, are oft caught in this Snare, and let this be a caution. Others by exceſſive Heats or Colds, Surfeits, and the like Accidents: Some by Fevers and long Fits of Sickneſs; ſome through Melancholy, Grief, or Trouble of Mind, or Deſpair and Envy. Some have Conſumptions Hereditary, which is the hardeſt of all to cure.</p>
+                  <p>Now, when thou findeſt thy ſelf indiſpoſed, and thy ſtomach to grow weak, and a general Diſorder to <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> through thy whole Body, and that thy ſtrength decays; conſider what it was that cauſed it, whether Temperance, or Intemperance in Meats or Drinks, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n reſpect of the Quantity or Quality, as alſo thy
+<pb n="26" facs="tcp:153741:16"/> Exerciſes, and all other Extreams thou haſt inured thy ſelf to Conſider further, what Air thou haſt lived in, where the Diſeaſe was bred, and by this means thou mayeſt gueſs at the cauſe of thy Diſtemper. And when this is done, thou oughteſt gradually to alter for the better, the whole Courſe of thy Life; not in the nature and quality of the Meats and Drinks only, but in their quantity: As alſo thy Exerciſes, and the Air, as far as the Condition of thy Life will ad<g ref="char:EOLhyphen"/>mit thereof. For change of Food, Exerciſes and Airs, work Wonders, if withal you betake your ſelves to meer ſimple Meats and Drinks, that are eaſy of Concoction, and generate a freer and firmer Sub<g ref="char:EOLhyphen"/>ſtance.</p>
+                  <p>I ſhall now ſet down what Food, Drink and Pre<g ref="char:EOLhyphen"/>parations are agreeable to the Stomachs of ſick and languiſhing Perſons: And firſt,</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>MILK.</hi>
+                  </head>
+                  <p>Which is an incomparable Food, and the beſt way for weak Conſumptive People to eat it, is raw.</p>
+                  <p>Take what quantity of Milk you pleaſe, let it ſtand open to the Air one Hour or two, then skin off the top of it, and eat it with well-bak'd Bread; neither toaſt your Bread, nor warm your Milk; except the Weather be cold, and then you may take it blood<g ref="char:EOLhyphen"/>warm, but then do not toaſt your Bread. You may, if you pleaſe, eat Biſquet with your Milk, but do not eat too great a quantity at once; ſometimes you may mix a little Water with the Milk, and ſweeteen it with good white Sugar: You may eat this three times a day, if you make it your ſole Food. Continue this ſix or eight months at leaſt, and you will find great benefit by it: For Diſtempers that have been many years generating, cannot be cured in a moment.</p>
+               </div>
+               <div type="section">
+                  <head>To prepare Milk with Wheat-flower, an Excellent way.</head>
+                  <p>Take a quart of new Milk, after it has ſtood five or ſix Hours from the time it was milk'd, put to it a third part of River or Spring-water, ſet it on a clear
+<pb n="27" facs="tcp:153741:16"/> Fire; then take ſome Wheat-flower, and temper it with either Water or Milk into a Batter, and when the Milk is ready to boil, put in your Thickning, and ſtir it a while; and when it is ready to boil again, take it off, then put as much Salt and Bread to it as you pleaſe, then let it cool without ſtirring it, and it will eat much ſweeter. Two ſpoonfuls of Flower is enough for a quart of Milk and Water, make it a<g ref="char:EOLhyphen"/>bout the thickneſs of ordinary Milk-po<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>age. This keeps your Body in excellent temper, neither binds nor looſens too much, and it never tires nor clogs the Stomach.</p>
+                  <p>
+                     <hi>Another way.</hi> Take a quart of Milk and a Pint of Water, add to it as much Oatmeal as you pleaſe to have it in thickneſs, thin is beſt. Set it on a clear Fire, and when it begins to boil, take it off, and brew it in two Porringers eleven or twelve times, then ſet it on the Fire again; and when it begins to boil, take it off, and let it ſtand a little, and the large Oatmeal will ſettle to the bottom; then add Bread and Salt to it, and eat it when it is blood-warm. This is an ex<g ref="char:EOLhyphen"/>cellent Food, agrees well with weak Natures, and affords firm Nouriſhment. And if you add at any time to this a new laid Egg or two, beaten with your thickning, and put it in as aforeſaid, it will make a rich Diſh.</p>
+                  <p>If you would add Eggs to Milk-potage, firſt put your Milk and Water into your Sauce-pan, take a ſpoonful of ground Oatmeal, and beat it up with your Egg or Eggs, with either a little Milk or Water, and when it is ready to boil, ſtir it in, as in flower'd Milk, and then you need not brew it; put a little Bread and Salt to all your Milk-meats, but no Sugar be ſure. This is a ſubſtantial and friendly Food. Obſerve, That Milk is beſt the firſt half year after the Cow hath Calv'd, but not ſo good after taking Bull, or Conception. Milk boil'd by it ſelf is not ſo good as when mixt with Oatmeal, Flower, or Water as afore<g ref="char:EOLhyphen"/>ſaid,
+<pb n="28" facs="tcp:153741:17"/> being not of ſo cleanſing a quality. The beſt time to begin Milk-diet, I think, is about <hi>March</hi> or <hi>April.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>BONICLABBER.</hi>
+                  </head>
+                  <p>Boniclabber is made by letting your Milk ſtand till it ſowres, wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch will be in Twenty-four Hours, if the Wea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er be very hot. It has a pleaſant ſowriſh Taſte and muſt be eaten only with Bread, eſpecially by Conſumptive People. It is excellent againſt Stop<g ref="char:EOLhyphen"/>page, and it's e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſie of Concoction, and digeſts all hard or ſweet Food; it cools and cleanſeth the whole Body, and quencheth Thriſt to a wonder: It is the beſt ſpoon-meat for Conſumptive People that I know. And tho' it may not be ſo agreeable to the Palate at firſt, yet a little Cuſtom will make it fami<g ref="char:EOLhyphen"/>liar and pleaſant.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>WATERGRUEL.</hi>
+                  </head>
+                  <p>This is good for Conſumptive People, and is made as followeth: Take a quart of Spring or River-wa<g ref="char:EOLhyphen"/>ter, put to it two ſpoonfuls of Oatmeal, then ſtir it well together, ſet it on the Fire; and when it is ready to boil, take it off, and brew it out of one thing into another; then let it ſtand, and the greateſt Oat<g ref="char:EOLhyphen"/>meal will <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ink to the bottom: Then pour it off, and add Bread and Salt to it, and Butter, if you pleaſe, then eat it when it has ſtood till it is blood-warm.</p>
+                  <p>Obſerve, That Milk boiled, is nothing ſo good as either raw or ſcalded. <hi>An excellent Gruel of various Ingredients.</hi> Take 2 pints of Water, and put half a quarter of a pound of Currans well waſh'd, let it ſtand on the Fire till ready to boil, then move it to a leſs heat for 4 or 5 Minutes, then take another Veſ<g ref="char:EOLhyphen"/>ſel with a quart of the like Water in it made to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> boiling then have your tempered ſpoonful of Oat<g ref="char:EOLhyphen"/>meal ready, brew your Oatmeal and Water together very well, then take your infuſed Currans out of the hot Water, and put them into your brewed Gruel, with ſome Butter, Sugar and Salt, throwing away
+<pb n="29" facs="tcp:153741:17"/> the Water that your Currans were infuſed in; then brew it as before, the Currans, Salt, Butter and Bread all together: If you have a mind to put Spice to it, then put it into the Water you make your Gruel of, when you ſet it on the Fire.</p>
+                  <p>
+                     <hi>A Purging Gruel.</hi> Take as much Water as you pleaſe, make it boiling hot, then put in theſe Herbs, or any other you ſhall like beſt, as Corn-ſallad, Spring-parſly, Scurvy-graſs, Smallage, Elder-buds, take off your Water from the Fire, cover it, and let them infuſe about half an Hour, then take the Liquor from your Herbs, and brew it with ſome tempered Oatmeal, you may put in Salt if you pleaſe, and drink a pint or quart, two or three in a Morning, and faſt till Dinner, this Gruel will give you a Stool, and cleanſe the Stomach from all ſuperfluous matter, makes good Blood, opens the Paſſages, by which the Humours will freely circulate; this is good in Spring, and all Seaſons of the Year, when you can get the Herbs.</p>
+               </div>
+               <div type="section">
+                  <head>To make all ſorts of Herb-Gruel, firſt of Elder-buds.</head>
+                  <p>Take what quantity of Water you pleaſe, make it boiling hot, then have your Oatmeal tempered with cold Water, and the Elder-buds, and put them both into the boiling Water, and keep it lading or ſtirring, beſure, let it be <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it were on the boil, but not boil up, a little while, take it from the Fire, and let it ſtand three or four Minutes, then take the Herbs out, ſtrain it, and put into it a little Salt; when cold, you may drink a quart more or leſs as your Stomach ſerves, this cleanſeth and opens all Obſtructions of the Breaſt and Paſſages, and gives a gentle Stool; its very good for Fat People, eſpecially if they join Exerciſe with it.</p>
+                  <p>Balm Gruel is made the ſame way as Elder bud-Gruel, and is a notable Cleanſer, good both for Old and Young, it expels Wind and Vapours, is good for Fat, Gouty or Dropſical People, it cleanſeth the
+<pb n="30" facs="tcp:153741:18"/> Paſſages and cheers the Spirits; drink it in <hi>March, April</hi> and <hi>May.</hi>
+                  </p>
+                  <p>Scurvy-graſs Gruel is a moſt excellent refiner of the Blood, begets a Stomach, purges by Urine, ſometimes by Stool: the excellency of this Herb would be too tedious to mention.</p>
+                  <p>Smallage-Gruel cleanſeth the Blood, opens Ob<g ref="char:EOLhyphen"/>ſtructions, gets a good Stomach, and is good againſt Shortneſs of Breath.</p>
+                  <p>Ground-Ivy, or Ale-hoof-Gruel, is a great Clean<g ref="char:EOLhyphen"/>ſer of the Bowels and Stomach, wholſom for all People, the ſick, and thoſe that are well.</p>
+                  <p>Sage-Gruel is excellent againſt moſt Diſtempers, ſo is Gruel made of Penniroyal or Spinage.</p>
+               </div>
+               <div type="section">
+                  <head>An excellent Food for all ſorts of People, but more eſpe<g ref="char:EOLhyphen"/>cially for Children and ſick People.</head>
+                  <p>Take a quart of Water, two ſpoonfuls of Wheat<g ref="char:EOLhyphen"/>flower, and two or three Eggs; beat the Flower and Eggs together with a little Water, and when the Wa<g ref="char:EOLhyphen"/>ter begins to boil, ſtir in your thickning, and keep it ſtirring till it is ready to boil; then take it off, and put Bread and Salt to it, when it has ſtood till it is blood-warm, eat it: You may put ſome Butter to it, or an Egg, if you like it beſt. This is an incompa<g ref="char:EOLhyphen"/>rable Food for all ſorts of People, it breeds good Blood, opens the Paſſages, ſweetens the Blood, pre<g ref="char:EOLhyphen"/>vents windy Diſtempers and griping Pains; it is next to Breaſt-milk for Children, and it is excellent for Conſumptive People, if they keep to it four or five Months, or more, and eat nothing elſe, and drinking three or four Glaſſes of good Ale; let them uſe gen<g ref="char:EOLhyphen"/>tle Exerciſe, and moderate Cloathing, and good ſweet hard Beds. This, and all other Spoon-meats made thin, are beſt.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>FLUMERY.</hi>
+                  </head>
+                  <p>It is thus made: Take three ſpoonfuls of Oatmeal more or leſs, and put to it a convenient quantity of Water, then let it ſtand till it begins to be ſoweriſh,
+<pb n="31" facs="tcp:153741:18"/> then take this Water and Oatmeal, and put it into a Veſſel, ſtirring it, and making it boiling hot, with a quick Fire, and when it does begin to riſe, brew it to and fro with your Ladle, to keep it from boiling; this do about four or five Minutes, then take it off the Fire, and it's prepared. Some eat it with Ale, others with Cream, Milk, and the like, but I think it moſt beneficial to be eaten with Bread only. It re<g ref="char:EOLhyphen"/>moves Obſtructions, ſtrengthens the Stomach, cools the Body, openeth the Paſſages, and is excellent good for Breakfaſt in all hot Climates. This is good, more eſpecially for weak-ſtomach'd People, and thoſe whoſe Breaſt and Paſſages are obſtructed by tough phlegmy Matter.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>BREAD.</hi>
+                  </head>
+                  <p>The beſt ſort for ſick People, is that which is made of Wheat flower, but not too fine dreſſed; for then it will be dry and husky; and your leaven'd Bread is much better than that made with Yeſt; you may make it after this manner: Take what Flower you pleaſe, make a hole in the middle of it, break then your Leven in; take as much blood-warm Water as will wet about half your Flower, mix the Flower and Leven well together, cover it with the remaining Flower cloſe; this do in the Evening, and by Mor<g ref="char:EOLhyphen"/>ning the whole will be levened. Then add as much blood-warm Water as is ſufficient, and knead it up very ſtiff and firm, the more pains you take, the better. When you have ſo done, let it lie warm by ſome Fire near two Hours, till the Oven is ready, then bake it, but let not the Oven-mouth be cloſe ſtopp'd, that the Air may have more or leſs Egreſs or Regreſs. But the beſt way, is to make it into thin Cakes, and bake th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> on a Stone, with a Wood-fire under. Of Rye, Barley, Oats, <hi>&amp;c.</hi> you may make Cakes after the ſame manner; put no Salt into your Bread.</p>
+               </div>
+               <div type="section">
+                  <pb n="32" facs="tcp:153741:19"/>
+                  <head>Of <hi>BUTTER.</hi>
+                  </head>
+                  <p>Butter affords good Nouriſhment; the beſt that is for the Stomach, is made from <hi>May</hi> to <hi>August</hi> it's very wholſom, if eaten moderately with Bread or with Herbs, Roots, or the like. Take good Butter and melt it thick, and put it to your H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rbs, as you do Oil, and it eats as well and pleaſant, and can ſcarce be di<g ref="char:EOLhyphen"/>ſtinguiſh'd from Oil: This (I believe) a great many may have cauſe to thank me for: All Butter ought to be well ſeaſoned with Salt.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>CHEESE.</hi>
+                  </head>
+                  <p>Cheeſe affords good Nouriſhment for healthy working People, if eaten with good ſtore of Bread, and a Cup of good Drink be not wanting. It is al<g ref="char:EOLhyphen"/>together as nouriſhing as Fleſh; it is clean, and of a ſtronger, firmer Subſtance, and digeſts a Cup of Drink better: And he that lives on Bread and Cheeſe, intermix'd now and then with Flower'd-milk, Wa<g ref="char:EOLhyphen"/>ter-gruel, Milk-potage, and raw Sallads, ſeaſoned with Vinegar, Salt and Oil, and drinks a Cup of good ſound Ale or Beer, not over ſtrong, ſhall exceed in Health and Strength him that lives on Bread and Fleſh, and drinks the ſame Liquor.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>EGGS,</hi> and their beſt way of Dreſſing.</head>
+                  <p>They are an excellent Food, friendly and innocent in Operation. Dreſs them as followeth:</p>
+                  <p>Let your Eggs be boiled ſoft, then break the Shell, and put them into a Diſh, and let them ſtand till they are Blood warm; then with Bread and Salt only eat them. A ſtrong Stomach may eat them with Bread and Butter ſpread upon it, not melted. Or you may boil them hard, then peel, off the Shell, and eat them with Salt, Bread and Vinegar. Poaching is a very good way. Take an Egg, a ſpoonful of Wheat<g ref="char:EOLhyphen"/>flower, and beat it well together then put it into a pint of Water boiling hot, ſtir it together; then take it off, and eat it with a little Bread, Salt and Butter, and it will make an excellent meal. Eggs in a Mor<g ref="char:EOLhyphen"/>ning
+<pb n="33" facs="tcp:153741:19"/> ſupp'd off raw, and Bread eaten after them, is very wholſom.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>PYES.</hi>
+                  </head>
+                  <p>Pear and Apple-pyes are wholſom and healthy Food, if the Fruit be t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orough ripe, and made as they ought to be<g ref="char:punc">▪</g> Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt way is thus:</p>
+                  <p>Take good W<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eat-flower, make it into a Paſte with a little Leven or Yeaſt, with Milk and Water, or a bloo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-warm Water only, then put in yo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Apples or Pears, and if you pleaſe, add ſome Carr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>way or Fennel-ſeeds. In baking, let the Oven ſtand almoſt open, that ſome Air may come in. When baked, draw them, and cut holes in the top, that the ſulphurous Atoms, and the fiery Vapours may paſs away; eat them not hot, for they are much better cold. Apples raw and ripe, eaten with Bread ſometimes, are wholſom; and ſo are Peaches, Plumbs, Gooſeberries, Currans, Apricocks, and the like, very good Food eaten with Bread ſometimes. And obſerve by the way, that hot Bread ought not to be eaten, for it is very injurious to the Health; and your Bread ought to ſtand two days before you eat it.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>OIL.</hi>
+                  </head>
+                  <p>It is of a brave nouriſhing clean Nature, and friend<g ref="char:EOLhyphen"/>ly to moſt Conſtitutions: It is very proper to be eat<g ref="char:EOLhyphen"/>en with Herbs and Fruit. Bread and Oil makes a delicate Breakfaſt or Supper; for it cleanſeth the Paſſages, breeds good Blood, and is eaſie of Con<g ref="char:EOLhyphen"/>coction. With Fiſh it is very good, more eſpecially with Salt-fiſh; for it allays the fierce keen property of the Salt, and ſweetens the lean Body of the Fiſh; for theſe purpoſes it is better than Butter. Obſerve, That toaſted Bread is not ſo good as cold Bread. Olives are not ſo good as Oil, nor ought to be fre<g ref="char:EOLhyphen"/>quently eat, for then they obſtruct the Stomach and Paſſages. The beſt way of eating them, is with Bread only; but we might as well be without them.</p>
+               </div>
+               <div type="section">
+                  <pb n="34" facs="tcp:153741:20"/>
+                  <head>Of <hi>SUGARS.</hi>
+                  </head>
+                  <p>Sugar is an excellent rich thing, but in my opinion, fit only to be taken Phyſically, and not at every turn to be mixt with our common Food and Drinks; the uſe whereof makes it of evil conſequence, particular<g ref="char:EOLhyphen"/>ly all ſweetned Drinks and Food forward the gene<g ref="char:EOLhyphen"/>ration of the Gout, and other Diſeaſes of the Body, which ſimple innocent Food would prevent, if Tem<g ref="char:EOLhyphen"/>perance be but obſerv'd. But if Sugar be uſed in Milk-meats for old People, it may prove beneficial, but I think to none elſe.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>SUGAR-CANDY.</hi>
+                  </head>
+                  <p>It is made thus: Firſt, they boil it as high as other Sugars, then out of the Pans they take this Syrup, and put it in an earthen Pot; then they ſet it in a hot Stow, there to ſtand 9 or 10 days; in that time the fierceneſs of the ſulphurous Heat coagulates it into an hard tough ſubſtance, then you take it out from the Syrup, and put the Candy or hard Lumps into the Stow again, but made about 2 or 3 degrees hot<g ref="char:EOLhyphen"/>ter, where it muſt remain 9 or 10 days longer, and then 'tis done.</p>
+                  <p>There are two ſorts of it, one White, the other Brown, but they are both of one nature and opera<g ref="char:EOLhyphen"/>tion; they are much made uſe of for Coughs, Colds and Stoppages, but in my opinion there is nothing more contrary and burthenſom to Nature in ſuch caſes than this very thing, and therefore ought to be aban<g ref="char:EOLhyphen"/>doned; for, in truth, the beſt Food for thoſe that are invaded with theſe Colds, <hi>&amp;c.</hi> are thin bri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k Gruels and Potages, made as I have taught before; alſo good raw Sallads with Bread and Oil, but eat Oil ſparingly: Likewiſe Bread and Butter, and all ſorts of lean Food, light of digeſtion; and for Drinks, Water and Rheniſh-wine, two parts Water, and one Wine, or good ſmall Ale, with moderate exerciſe and cloathing, walking in the open Air ſometimes, which will gradually remove theſe Diſtempers.</p>
+               </div>
+               <div type="section">
+                  <pb n="35" facs="tcp:153741:20"/>
+                  <head>Of the Occaſion of Colds and Coughs, and of their Cure.</head>
+                  <p>Coughs and Colds are produced by intemperance in Meats, Drinks, Exerciſes and Habits, or by eating or drinking too much in quantity, and things of a con<g ref="char:EOLhyphen"/>trary quality, or improperly prepar'd, and not from thin Cloathing, as many imagine; for if the inſide be ſound and clean, there is little danger of outward In<g ref="char:EOLhyphen"/>conveniences. The beſt way to prevent outward Colds, and the Evils that happen through thick and thin Cloathing, and by Heats, Sweatings, and the like, is to change your Cloaths often. As for Ex<g ref="char:EOLhyphen"/>ample: Put on, when you ſtay at home, in a Morn<g ref="char:EOLhyphen"/>ing, one ſort of Cloaths, and when you go out, put off your Cloaths to your Shirt, and put on freſh and cold Cloaths, and again at Night, pull off them to the Shirt, and put on the other. And for thoſe that ſweat much by their Labour, let them pull off all their Cloaths, Shirt and all, and put on freſh Shirts, and cold Cloathing; and for thoſe that over-travel them<g ref="char:EOLhyphen"/>ſelves, let them do the like; but obſerve that both fit ſtill a while, before they either eat or drink.</p>
+                  <p>Obſerve farther by the bye, That Prunes, Figs, Nuts, and Almonds, and many other ſuchlike things, ought not to be eaten at all, except only with com<g ref="char:EOLhyphen"/>mon Bread, or in a Phyſical way, in opening Drinks. Alſo Candied Gingers, all ſorts of Conſerves and Pre<g ref="char:EOLhyphen"/>ſerves, and all Confections, Hodge-podge, Cakes, Bunns, are very prejudicial for it, and obſtruct the Paſſages, generate Crudities, ſpoil the Stomach, and prepare Matter for a multitude of Diſeaſes.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>CANARY.</hi>
+                  </head>
+                  <p>Canary is an excellent Cordial Liquor; eat a good piece of Bread, and drink a Glaſs of Canary after it, and it will make a rich meat. It is, in my opinion, the beſt Cordial an Apothecary has in his Shop, for any Man in time of Diſorder and Sickneſs.</p>
+               </div>
+               <div type="section">
+                  <pb n="36" facs="tcp:153741:21"/>
+                  <head>Of <hi>SHERRY.</hi>
+                  </head>
+                  <p>It is a fine Cordial Wine, as Food for common Drinks as Canary; being mixt with Water, it begets Appetite, cleanſeth the Paſſages, and helps Con<g ref="char:EOLhyphen"/>coction; it purges by Urine more than Canary. But this, as all other Liquors, muſt be drank with diſcre<g ref="char:EOLhyphen"/>tion and temperance, and not too frequent.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>WHITEWINE.</hi>
+                  </head>
+                  <p>Whitewine is an excellent cleanſing Liquor, it be<g ref="char:EOLhyphen"/>gets Appetite, and purges by Urine; but let it not be too frequently drank, left it indiſpoſe the Body, by putting it into an unnatural Flame.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>RHENISH-WINE.</hi>
+                  </head>
+                  <p>Rheniſh-Wine is an excellent Cleanſer of the Sto<g ref="char:EOLhyphen"/>mach, ſomewhat a-kin to Whitewine, it begets Ap<g ref="char:EOLhyphen"/>petite, and helps Concoction.</p>
+                  <p>As for Old Hock, eſteem'd by ſome, it is the moſt prejudicial of any Liquor, and therefore ought to be forborn.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>CLARET.</hi>
+                  </head>
+                  <p>Claret is a good Stomach-Wine, moderately drank; it helps Concoction, and begets Appetite, it is the beſt of Wines for thoſe that eat abundance of Fat-fleſh, and Succulent Foods: But it purges not by Urine ſo much as White. Take Notice, that this (as all other Liquors) are not to be frequently uſed, for then they are prejudicial; but a Glaſs of Claret, or a dram of Brandy, or the like, are good Cordials, when you have eaten too much in quantity of any Foods too foul or groſs in quality.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>CYDER.</hi>
+                  </head>
+                  <p>Cyder (if well made and fermented) is a fine brisk Liquor, and altogether as good as Claret or White<g ref="char:EOLhyphen"/>wine, and perhaps better for <hi>Engliſh</hi> Bodies, if drank temperately. Note, That no Cyder ought to be kept above one year, if you regard your Health.</p>
+               </div>
+               <div type="section">
+                  <pb n="37" facs="tcp:153741:21"/>
+                  <head>Of <hi>MUM.</hi>
+                  </head>
+                  <p>Mum (if temperately drank) is very wholſom for Melancholy Flegmatical People, and for thoſe whoſe Food is coarſe Bread and Cheeſe, Flower'd-milk, Herbs, and lean Potages; but I think it not near ſo wholſom as well-brewed Ale.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>COFFEE.</hi>
+                  </head>
+                  <p>Coffee ought to be uſed only in a Phyſical way, by them that are troubled with Fumes and dulling Va<g ref="char:EOLhyphen"/>pours that fly into their Heads: It is likewiſe good after hard Drinking, Wearineſs. Labour and Faſt<g ref="char:EOLhyphen"/>ing; but for others, I think it beſt to forbear it: Yet a Diſh will do no Man harm.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>TEA.</hi>
+                  </head>
+                  <p>Tea is an innocent harmleſs Liquor, that purges by Urine, and is of an opening Quality; but it is not comparable to an Herb called Dandalion; which being infuſed in boiling hot Water about half an hour, and then pour the Liquor from the Herbs, and ſweet<g ref="char:EOLhyphen"/>ned with white Sugar, is a much better Drink. It purgeth by Urine, and cleanſeth the Stomach. Sage, Penniroyal, Thyme and Mint, dryed in their proper ſeaſon, and kept in Bags, make as good Liquor as Tea.</p>
+               </div>
+               <div type="section">
+                  <head>An excellent Drink againſt Stone, Gravel, and other Obſtructions.</head>
+                  <p>Take Scurvy-graſs Leaves, Seeds of Daucus, ſome Horſe-Radiſhes cropt, put them in an earthen Veſ<g ref="char:EOLhyphen"/>ſel, and then add as much Whitewine as will cover he Herbs, Seeds and Roots; let them ſtand five days and nights, then pour it off, and keep it in Glaſs-Bottles; it will continue good four or five weeks: Take a Sack-glaſs of this, and a like quantity of Wa<g ref="char:EOLhyphen"/>ter every morning, faſt two hours, and then drink at <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaſt a quart of our thin Water-gruel, either of the cold or hot. The conſtant uſe of this, is not only a prevention and cure, but it moves moſt ſorts of Ob<g ref="char:EOLhyphen"/>ſtructions of the Stomach, begets Appetite, generates good Blood, cauſing it to circulate freely.</p>
+               </div>
+               <div type="section">
+                  <pb n="38" facs="tcp:153741:22"/>
+                  <head>How to Purge by Herbs and Foods.</head>
+                  <p>When you are minded to purge your ſelf with both eaſe and ſafety, and to preſerve your Health, then ob<g ref="char:EOLhyphen"/>ſerve the following method, <hi>viz.</hi> In the Morning drink a quart of our thin Water-gruel, either the cold or hot, eat a ſmall piece of Bread with it; at Dinner take Spinage, Lettice, Onions, Parſly and Sage; waſh them, and eat plentifully of them with your Food, be it what it will; at Night drink a like quan<g ref="char:EOLhyphen"/>tity of Gruel, and eat ſome good Bread, as you did in the Morning. This you muſt do for four or five, or ſix days together, more or leſs, as you ſee occaſion. The like method you are to obſerve, if you would purge your ſelf wi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Carrots, Turnips and Parſnips, as you did wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h H<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>bs, with this variation, <hi>viz.</hi> drink your Gruel, and ea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your Bread Mornings and Nights, and at Dinner <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at only Carrots, Parſnips or Turnips, boiled only in good Water, and eat them freely with no other thing, but a little Salt and Bread, during theſe ſeveral days. You may purge your ſelf to what degree you pleaſe.</p>
+               </div>
+               <div type="section">
+                  <head>Another way to Purge by Foods and Drinks.</head>
+                  <p>Drink in the Morning at ſeveral times, three pints or two quarts of thin Water-gruel, at Dinner drink a pint or a quart, at Night drink a quart more, and eat ſome Bread. This method will purge, or at leaſt will keep your Body open; let your Food at Dinner be what it will, the Body being kept open and cool, doth prevent and cure various Diſeaſes in hot coſtive Conſtitutions.</p>
+               </div>
+               <div type="section">
+                  <head>To make the beſt Herb Diet-drink.</head>
+                  <p>Suppoſing your Herbs well gather'd, and dry, and kept in Bags; take what Herb you think fit, put it in a Linnen Bag, and ſteep it 7 or 8 hours in Beer, Ale or Wine, or other Liquor, and then take it out, and it is done: Let not your Wormwood be ſteep'd above three or four hours; obſerve, that one ſort of Herb by it ſelf, is much better than Compounds.</p>
+               </div>
+               <div type="section">
+                  <pb n="39" facs="tcp:153741:22"/>
+                  <head>To prevent the <hi>SCURVY.</hi>
+                  </head>
+                  <p>Eat not Meat and Drinks too ſtrong for Nature, for Nature ought to be ſtronger than the Food. Meat and Drink ought not to be eaten that are of a contrary Quality to the Conſtitution. Have a care of eating to Fulneſs, or to Exceſs.</p>
+                  <p>Take care that your Victuals be (in all reſpects) properly prepared; for ſome will but half do it, others over-do it.</p>
+               </div>
+               <div type="section">
+                  <head>Advice to Fleſh-eaters.</head>
+                  <p>Let all ſorts of Fleſh and groſs Food be boiled in plenty of Water, and over a brisk Fire. Forbear eat<g ref="char:EOLhyphen"/>ing too much Fleſh. It is moſt unwholſom in <hi>July, August, September, October.</hi> Forbear eating too much Fiſh. Remember you eat not before the former Food be digeſted. Drink moderately; let your ordinary Drink not be hard, ſtale, nor ſour, nor too new. Let your Cloathing be moderate. Let your Houſes be airy, your Beds hard, clean and ſweet; uſe proper Exer<g ref="char:EOLhyphen"/>ciſe and Labour in open airy places; take Walks of<g ref="char:EOLhyphen"/>ten by River-ſides, or on Plains and Downs; obſerve the Rules of Chaſtity, avoid all compounded Foods; avoid carking Cares, Hates, Revenge, Envy, Violence, Oppreſſion, keep a good Conſcience, for that's a con<g ref="char:EOLhyphen"/>tinual Feaſt. Hearken to the Voice of Wiſdom, and the Dictates of Reaſon and Nature, and that will bring thee to endleſs Felicity.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Notable Things; How to Cure all ſorts of Wounds by Poultices only.</head>
+               <div type="section">
+                  <p>AN excellent Poultice, which cures ſcalded Limbs, Burns, Biles, Felons, Tumors proceeding from Choler, Phlegm or Melancholy. It alſo cu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es all Contuſions, Inflammations or Bruiſes, either with or without a Wound; old Wounds, Ulcers, or running
+<pb n="40" facs="tcp:153741:23"/> Sores<g ref="char:punc">▪</g> Excellent alſo againſt the Gout, and Inflam<g ref="char:EOLhyphen"/>mation of the Eyes; admirable againſt ſore Breaſts, and Bites of Dogs, or any other hurt of what kind or nature ſoever. Which is thus:</p>
+                  <p>Take two pints of Water, River, Rain or Spring; then take as much ground Oatmeal as will make it thick, fit for a Poultice; add to it two ounces of good Sugar, a handful of Dandalion cut ſmall, then place it over the Fire in an open and convenient Veſ<g ref="char:EOLhyphen"/>ſel, keep it ſtirring till it is boiling-hot, and then it is made.</p>
+                  <p>
+                     <hi>Another.</hi> Take about a quart of Water, then take as much Houſhold-bread as will make it thick, and three ounces of beaten Raiſins of the Sun, and one ounce of Sugar, and about half a pint of new Ale; ſtir all together, and make them boiling-hot over a clear Fire, and it's done.</p>
+                  <p>
+                     <hi>Another.</hi> Take one quart of Water, as much Bread as will make it thick, five ounces of Raiſins of the Sun, and one ounce of Coriander-ſeeds, beaten with a Glaſs of Ale, made boiling-hot, and then it is prepared.</p>
+                  <p>
+                     <hi>Another.</hi> Take one quart of Water and Bread, to make it as thick as a Poultice; of Sugar two ounces, a Glaſs of Sack, or for want of that, other Wine, make it boiling-hot. Apply theſe Medicines to the part af<g ref="char:EOLhyphen"/>flicted, by ſpreading the Poultice pretty thick on a Linnen-Cloth, that will cover the whole part, ſome<g ref="char:EOLhyphen"/>what warmer than Milk from the Cow: But let it not be ſo hot as is uſual, for Extreams prove generally prejudicial. Apply theſe Poultices every two hours at leaſt in the day, and three or four times in the night, if the Wound be dangerous; otherwiſe, ten times in a day and a night will do. When you take the Poultice off, put that away, and put a freſh one on every time, and keep, a conſtant Repetition for 4, 5, 6, 7, 8, 10 or 11 days, if occaſion be; but it will cure moſt Diſtempers in leſs time, if you obſerve this method. But beſure waſh your Sores 'twixt whiles, with Water
+<pb n="41" facs="tcp:153741:23"/> and Sugar, and ſometimes with Water &amp; freſh Butter beaten together, which will keep it clean and pliant.</p>
+               </div>
+               <div type="section">
+                  <head>A Rare Poultice againſt the <hi>HEAD-ACH.</hi>
+                  </head>
+                  <p>Take a quart of Rain or River-water, an ounce of white Sugar, as much Malt-flower new ground as will make it thick enough; add to it half a pint of good Ale, making it boiling-hot, and ſtirring it all the time that it is made: Spread this on a Linnen-Cloth pretty thick; apply it Milk-warm every hour. Con<g ref="char:EOLhyphen"/>tinue the Application as long as occaſion ſerves.</p>
+               </div>
+               <div type="section">
+                  <head>An excellent Poultice againſt <hi>SPRAINS</hi> of all ſorts.</head>
+                  <p>Take clean Water two quarts, make it boil, then put green Sage in, as much as the Water will cover; then boil it, then let it ſtand off the Fire half an hour, then ſtrain the Water off, and put to this Sage-Li<g ref="char:EOLhyphen"/>quor, as much Bread as will thicken it; then take double-refin'd Sugar three ounces, a quarter of a pint of Claret, and Spirit of Wine, Sugar or Malt, five ſpoonfuls; ſtir them well together, making them boiling-hot; beſure ſtir it all the time. Spread this on a Linnen-Cloth, apply it blood-warm every two hours, reſting all the time.</p>
+               </div>
+               <div type="section">
+                  <head>A Poultice, excellent to cure a ſore <hi>BREAST.</hi>
+                  </head>
+                  <p>Take a quart of River-water, then cut ſome Sorrel ſmall, of Coriander-ſeed beaten to powder half an ounce, of good brown Sugar 2 ounces, and as much Bread as will make it into a Poultice, make it boil<g ref="char:EOLhyphen"/>ing-hot, ſtirring it all the time that it is made: Ap<g ref="char:EOLhyphen"/>ply this every 2 hours blood-warm; do it 3 or 4 days as you have occaſion. Be ſure, every time you apply this Poultice, to waſh your Breaſt with Water and freſh Butter beaten together. This is an excellent thing.</p>
+               </div>
+               <div type="section">
+                  <head>A Poultice to cure a <hi>SPRAIN.</hi>
+                  </head>
+                  <p>Take 2 quarts of fair Water, and of good-ſtrong Beer a quart, refin'd Sugar four ounces; boil it up, then add to it freſh-gather'd Thyme as much as the Liquor will cover, then boil it up again, then ſtrain
+<pb n="42" facs="tcp:153741:24"/> it from the Herbs, and put of brown Bread as much as will thicken it; ſtir this over the Fire till boiling<g ref="char:EOLhyphen"/>hot, and it's done. Put to this 3 ounces of Spirit of Wine, ſtirring all well together: Apply this ſpread thick on a Linnen-Cloth every 3 hours blood-warm.</p>
+                  <p>
+                     <hi>Another.</hi> When you have ſtrain'd any part, pre<g ref="char:EOLhyphen"/>ſently put it into cold Water, wherein ſome Wood and Aſhes are put. Do this about an hour, and it gives Eaſe.</p>
+               </div>
+               <div type="section">
+                  <head>To cure <hi>GAULS,</hi> or <hi>SKIN</hi> rub'd off.</head>
+                  <p>Waſh your Sore every hour for a day or two, with Spirit of Wine and Vinegar mixt well together, lay<g ref="char:EOLhyphen"/>ing on a <hi>Diaculum</hi> Plaſter. This cures in a ſmall time.</p>
+               </div>
+               <div type="section">
+                  <head>Againſt a <hi>STAB</hi> or <hi>CUTT,</hi> or any other <hi>WOUND.</hi>
+                  </head>
+                  <p>Take double-refin'd Sugar and Spirit of Wine mixt with it, and with this Waſh or Syringe your Wound well, then put a ſmall quantity of refin'd Sugar pou<g ref="char:EOLhyphen"/>der'd into your Wound, and immediately ſow it up with Silk and a fine Needle. This will do wonders.</p>
+               </div>
+               <div type="section">
+                  <head>To cure old <hi>ULCERS.</hi>
+                  </head>
+                  <p>Take of the beſt double Spirit of Wine one pint, beaten Aloes half an ounce, double-refin'd Sugar 3 ounces, Myrrh half an ounce, mix them well toge<g ref="char:EOLhyphen"/>ther. Uſe it thus: Firſt waſh your Ulcer with very clean Rain-water, dropping ſome of the fore-mention<g ref="char:EOLhyphen"/>ed Spirits into your Ulcer. Then apply this Poultice following: Rain-water a quart, Balm, two ounces of good Sugar, Parſly and Mint cut ſmall, of each a like quantity; as much Bread as will make it of a fit conſiſtency for a Poultice; make it boiling-hot, ſtir<g ref="char:EOLhyphen"/>ring it all the time; then put a Glaſs of good Beer or Ale, Syder or Wine, into it. Lay this Poultice on every three hours, always waſhing it with the Rain<g ref="char:EOLhyphen"/>water and Spirits.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="43" facs="tcp:153741:24"/>
+               <head>A new Way for the right Ordering of Cattel.</head>
+               <p>A Horſe is an excellent and uſeful Creature, but thro' ill Management, often abuſed; to pre<g ref="char:EOLhyphen"/>vent which, the Drivers ought to obſerve, Firſt, That in the Morning, they drive them moderately. Secondly, When they have done Labour, rub them well down, then tie them to the Rack for an hour or two, during which time give them no Meat, but be<g ref="char:EOLhyphen"/>tween whiles keep them rubbing, till their tired Spi<g ref="char:EOLhyphen"/>rits be refreſhed, then give them a moderate quantity of Meat and Drink. Thirdly, Let the Stables be open to the Air, and keep them clean: Let not your Horſes in the Stable, eſpecially your Saddle-horſes, have conſtantly Hay in the Rack, nor Provender in your Manger, but tie them from their Racks, five, ſix or ſeven hours together; let not your Cattel have too much Meat at a time, but ſuch a quantity as they may eat up clean: When your Horſe has been hard Rid, or Worked much, you may conveniently give him a little Water about two hours before you give him Meat. Rubbing down Horſes is better than walk<g ref="char:EOLhyphen"/>ing them, when hot. Thoſe that give their other Cat<g ref="char:EOLhyphen"/>tel Grains, as the People about <hi>London</hi> do, let them put a little Salt into them, which prevents the Rot, and watry and windy Diſeaſes. Let your Mares with Foal, and their Colts, run in the Fields for a Year. Obſerve but theſe Rules, and your Horſes will ſeldom want Drenching or Bleeding; but if you find they prove too faſt, the beſt way to cool their Blood, and keep them from Diſeaſes, is to give them mode<g ref="char:EOLhyphen"/>rate Labour, and alter the quality of their Food.</p>
+               <p>The beſt Food for Horſes, is good Rick-Hay, that is about three quarters of a year old, which is much better than Hay out of the Barn. And Corn in the Straw is much better than <hi>that</hi> that is only threſht, or <hi>that</hi> that is both threſht and cleanſed from its Chaff.
+<pb n="44" facs="tcp:153741:25"/> And Beans, Fitches, Peaſe, Barly, and Oats in the Straw, is not only the moſt hearty Food, but clean<g ref="char:EOLhyphen"/>ſeth the Stomach from all Superfluities; but threſhed Corn of any ſort, is good Food for working Horſes that go to Graſs, eſpecially in Winter, giving it them Morning and Night. Put your Stable-horſes to Graſs from <hi>May</hi> to <hi>July,</hi> which will cleanſe their Bodies, and cure their Feet and Legs of Diſeaſes contracted by ſtanding in the Stable all Winter: Rain, River, and Spring-water, are beſt for Horſes and other Cattel, much better than Pond-water.</p>
+               <p>As for Sheep, any diſorder wounds their Health, if they are driven too hard, or courſed with a Dog, or the like, if they be ſuffered to lie down whilſt hot, and this be done often, they will break out with the Scab or Mange; when about <hi>Michaelmas</hi> you put them into freſh Paſtures, if they are cloſe folded it will do the ſame: If in hot Weather they be often re<g ref="char:EOLhyphen"/>moved from place to place, it will hinder them from Thriving, and make them Scabby, much wet likewiſe makes them Rot. In the Morning betimes drive your Sheep into fallow Fields, or Downs, where Graſs is ſcarce, and take notice of the Situation of the Field; then walk your Sheep gently on the drieſt and higheſt parts; if there be Corn-fields, let them feed about two or three hours by the Hedges. About 11 a-Clock, turn them from the edges of the Corn<g ref="char:EOLhyphen"/>fields or Paſturage, into the loweſt Clay-ground or Valleys you have, and let them lie at eaſe, and as ſcattering as you can: Uſe them at all times tender<g ref="char:EOLhyphen"/>ly, and leſs Food will ſerve; obſerv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this method from <hi>May</hi> till <hi>August,</hi> if the Weather continue warm, and it will prevent Scab and Mange, when they come in<g ref="char:EOLhyphen"/>to freſh Paſture. In <hi>May</hi> or <hi>June,</hi> I think is the beſt time for Shearing. If the Summer proves wet about <hi>June</hi> or <hi>July,</hi> let your Sheep continue in the Fold till eight in the Morning, if the Morning be moiſt; and again, let them be folded before the Dew falls: Ob<g ref="char:EOLhyphen"/>ſerve
+<pb n="45" facs="tcp:153741:25"/> theſe Rules, and you will prevent many Diſea<g ref="char:EOLhyphen"/>ſes, as Choler, Flegm, Stoppages, Red-water, Coughs, Pains in the Joints, Lameneſs, and the like: You ought to be moſt careful of Sheep from <hi>Midſummer</hi> till <hi>Mi<g ref="char:EOLhyphen"/>chaelmas.</hi> Therefore keep your Sheep till 9 a-Clock, or till the Sun have dried up the moiſt Vapours and Humidity from the Earth, and then let them out, and keep them on the high and dry Grounds; if the day prove dry, feed them three Hours in lower Grounds, and about Evening put them in higher places and beſure Fold them before the Dew falls, and Fold them on dry Ground; from <hi>July</hi> to <hi>September,</hi> Sheep are moſt ſubject to Rot, and is occaſioned chiefly by too much moiſture at the Seaſon, and not from licking up Snails, <hi>&amp;c.</hi> which I omit for Brevity.</p>
+               <p>If wet Weather happen about <hi>July, August</hi> or <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> or when it is generally a wet Summer, and continues till <hi>Michaelmas,</hi> a Rot is greatly to be feared. In wet Weather, give your Sheep Hay at Night and Morning, or give them three times a Week Oats, or other Grain, mixing a little Salt with it, and this will prevent the Rot: Low wide Houſes like Barns, open on all ſides to houſe Sheep in wet Weather, preſerves them from Rot; this is a General Rule in <hi>Flanders.</hi> Thoſe that live, where the Rot is often, ought to change their Sheep for Hill-Country Sheep, which will thrive, and prove leſs ſubject to this Diſeaſe.</p>
+            </div>
+            <div type="part">
+               <head>Divers other Notable Things.</head>
+               <div type="section">
+                  <head>How to harden <hi>LEATHER,</hi> that it ſhall laſt much longer than it doth unprepared.</head>
+                  <p>THis Secret is ſo neceſſary for the whole Land, that I ſhall diſcover it. Lay ſuch Leather as is well taw'd to ſoak in Water, wherein there hath been ſtore of Filings of Iron a long time, or elſe in Water
+<pb n="46" facs="tcp:153741:26"/> that hath lain a long time under a Grindſtone, where Iron hath from time to time fallen, and there ſettled.</p>
+               </div>
+               <div type="section">
+                  <head>To beautifie <hi>SHOES,</hi> and keep them dry and beau<g ref="char:EOLhyphen"/>tiful, and to preſerve them.</head>
+                  <p>Take two ounces of Bees-wax, a penny worth of Lamb-black, twelve or thirteen drops of Neats Oil, or a little Greaſe; let them boil, and ſtir them well together, then take it off, and when cold, make it into a Roll, and rub a little of it upon a hard Bruſh, then heat your Bruſh, and rub your Shoes; obſerve that your Shoes muſt be rub'd from Dirt clean, before you rub your Wax, and likewiſe dry; and this will keep out wet, and ſet a Gloſs, and preſerve your Shoes.</p>
+               </div>
+               <div type="section">
+                  <head>To make <hi>COALS</hi> laſt much longer than uſual.</head>
+                  <p>Take your ſmalleſt Sea-Coals, and mix them well with large pieces of Clay, as big as large Balls, and lay them upon your Fire.</p>
+               </div>
+               <div type="section">
+                  <head>To ſave <hi>SOAP</hi> in waſhing Linnen.</head>
+                  <p>Infuſe Spring or River-water, two or three days in open Veſſels in the Air, a quantity of Chalk, and it will ſave a great deal of Soap. It purges, being drank by Urine, brings away Gravel, and ſlimy offenſive Matter. Put Chalk into ſtale Beer, and it immediate<g ref="char:EOLhyphen"/>ly takes away the eagerneſs of it: Drink it with Water, and it cures the Heart-burn; it is good to brew-withal.</p>
+               </div>
+               <div type="section">
+                  <head>Directions to Dreſs <hi>HATS.</hi>
+                  </head>
+                  <p>Smear a little Soap upon the places of your Hat that is filthy, and then with ſome hot Water, and a hard Bruſh, rub your Hat, then ſcrape it with the back of a Knife, what filth ſticks, and it will bring both Greaſe and Scap out.</p>
+                  <p>
+                     <hi>Another.</hi> Some take the Grounds of Beer, and boil it, and with a Bruſh rub their Hats, and ſo clean it.</p>
+               </div>
+               <div type="section">
+                  <head>To make Powder <hi>INK,</hi> or <hi>White Powder INK.</hi>
+                  </head>
+                  <p>Take of Gum Sandrach two ounces, and beat it well to a Powder, then ſift it thro' a fine Sieve, take as much Calaminthus, which the Druggiſts ſell, mix them well, beaten to Powder, and a quarter of an
+<pb n="47" facs="tcp:153741:26"/> ounce of this will turn a pint of Water or Vinegar in<g ref="char:EOLhyphen"/>to good Ink preſently.</p>
+               </div>
+               <div type="section">
+                  <head>To make <hi>COFFEE</hi> of Horſe-Beans.</head>
+                  <p>Take Horſe-Beans and roaſt them, then grind them as you do Coffee-Berries, and put a ſmall quantity of Coffee to them, then take a little ſweet Malt tyed in a Rag, and put into your Water, and boil it as you uſually do Coffee; I am told, it will anſwer the end for Colour, Taſte, and Virtue.</p>
+                  <p>
+                     <hi>Another.</hi> Take 12 ounces of Horſe-Beans unhusk't and roaſted, 2 ounces of Coffee, 2 ounces of Wheat parched or roaſted, and pouder'd in your Liquor; you may boil ſome ſweet Malt tyed in a Bag, and make your Coffee with that Liquor. This I had from a Friend. I am told, that Peaſe does the ſame thing.</p>
+               </div>
+               <div type="section">
+                  <p>If you caſt Salt into a Lamp of Oil, it makes the Oil laſt twice as long as it will without it.</p>
+                  <p>
+                     <hi>A pleaſant, wholſom, and cheap Way to make Wine of Cherries, Gooſeberries, Apricocks and Plumbs.</hi> Take Gooſeberries, Cherries and Plumbs, or any o<g ref="char:EOLhyphen"/>ther ſuch like Fruit, bruiſe them, then put them into a Tub, ſuch as is uſed to maſh Malt in, with a Tap in it, then put in it as much good Water as you think fit, either to make it ſmall or ſtrong, let theſe infuſe 11, 13, 17, or 20 hours, then you muſt draw it; if you would keep it, put ſome bitter Herb or Seed 3 or 4 hours in it; for preſent uſe, Balm, or any good Herb; then to every Gallon put two pound and a half, or three pound of Honey, Sugar or Treacle, the more ſweetning, the ſtronger it will be, then put ſome Yeaſt to it, and let it work.</p>
+                  <p>Greaſe the edge of new Shoes, or new-ſoled Shoes, then with a hot Iron ſeer them well on the edge, and round the heel, it preſerves your Shoes from ſpungi<g ref="char:EOLhyphen"/>neſs, and makes them laſt much longer.</p>
+                  <p>How a Man may Advance his Corn 5 <hi>d.</hi> or 7 <hi>d.</hi> in a Buſhel; and that is by cutting down his Corn be<g ref="char:EOLhyphen"/>fore it be over-ripe, for if it is over-ripe, the Straw
+<pb n="48" facs="tcp:153741:27"/> becomes ſo brittle, that it hardly ſupports the Ears, by that means it ſheds more than was ſowed, but eſpecially Barly; it likewiſe makes the Bread eat husky, therefore take care it ſtand not too long, nor you cut it over-ſoon, but obſerve a Medium.</p>
+               </div>
+               <div type="section">
+                  <head>How to Brew Ale.</head>
+                  <p>Take your Water as hot as you can, without boil<g ref="char:EOLhyphen"/>ing, then put it into the Maſh-tub, or other Veſſel, let it ſtand a ſmall time before your Malt be put into it; for if you put your Malt into the Water hot, it will make the Wort of a red colour; but the cooler the Water is, the paler will your Wort look. You may put into the Ale a ſmall quantity of Hops, but they muſt not be boiled; but you may do thus, fill your Veſſel or Copper that you uſe with your Wort, make it boiling-hot, then what quantity of Hops you will you may take, infuſe them nigh half an hour, when that is done ſtrain them out, not letting it boil at all, then you have all the vertues of Hops that are neceſſary for the Body; you muſt likewiſe let your Ale be thoroughly wrought or fermented, that it may be well cleanſed from its Yeaſty ſubſtance, for if not, it quickly grows ſour; likewiſe you muſt take care that you don't ſet it working whilſt too hot, for that weakens the original heat, and if your Ale work too furiouſly, it will not keep, but turn ſour ſooner than the other that is ſet a working in ſuch a degree of heat; neither let your Wort be ſet a working too cold, for that makes the ſpirituous quality become dead or flat. You may Brew as wholſom Ale, or wholſomer, and not boil it at all; try before you judge, and ſpeak as you find. Read an excellent Book, call'd, <hi>The Way to Health, Long-Life and Hap<g ref="char:EOLhyphen"/>pineſs,</hi> pag. 154, 155, 156, 157, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>To take Ink out of Paper.</head>
+                  <p>Take <hi>Aquafortis,</hi> and dip a little of it upon the blot or writing you would take out, and immediately it will diſappear; then take a little Water ſteeped in
+<pb n="49" facs="tcp:153741:27"/> Alom, and waſh it over with it, and when dry, it will make it look as clear and white as at firſt; otherwiſe the <hi>Aquafortis</hi> alone will make a yellow Stain.</p>
+               </div>
+               <div type="section">
+                  <p>
+                     <hi>How to cure Chilblains.</hi> Take ſome Beef Brine, and heat it as hot as you can endure it, and rub your Feet with it, holding them to the Fire: This do Morning and Night, or waſh your Feet in your own Water Morning and Night.</p>
+                  <p>
+                     <hi>Chops.</hi> Anoint with Capon and Gooſe-Greaſe.</p>
+                  <p>
+                     <hi>Dimneſs of the Eyes, or ſore.</hi> Waſh your Eye-lids with your own warm Urine Morning and Night.</p>
+                  <p>
+                     <hi>Teeth Hollow.</hi> Stop them with burnt Alom and Bees-wax, mixt.</p>
+                  <p>
+                     <hi>Canker in the Mouth.</hi> Mix Alom, Honey and Vine<g ref="char:EOLhyphen"/>gar together, and waſh your Mouth often with it.</p>
+                  <p>
+                     <hi>For the Scurvy or Dropſie.</hi> Drink your own Water Morning and Evening.</p>
+                  <p>
+                     <hi>Of Water.</hi> The firſt ſort in goodneſs, either to drink, or dreſs Meat, or Waſh withal, or for other uſes, is R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in-water; the beſt Seaſon to receive it, is <hi>March, April, May, June</hi> and <hi>July,</hi> put it into Glaſs-Bottles, and in Airy places, and let it ſtand unſtopped, that the Air may have a free influence. The next in goodneſs is River-water, whoſe original is Fountain or Spring-water, and is generally better in the River, than at the Fountain-head. <hi>Thames</hi> Water is an ex<g ref="char:EOLhyphen"/>cellent Water too. The next is Spring or Fountain-water, and the beſt is that that proceeds from a Chalky Earth. Pump or Well-waters are of a cold hungry nature generally, and not ſo good as the others. Pond or Standing-waters are worſt of all Waters, for either Man or Beaſt. Pump or Well-water, ſo much uſed of late, whoſe Purgative qualities proceed from Coldneſs and Weight, and the not being accuſtomed to Drink Water, I look upon them to be dangerous, eſpecially when drank in ſuch great quantities. The firſt Fin<g ref="char:EOLhyphen"/>ders and Drinkers did uſe them more temperately and regularly, which by degrees moſt have degene<g ref="char:EOLhyphen"/>rated
+<pb n="50" facs="tcp:153741:28"/> from all ſober Methods, into the higheſt degrees of all kind of Debauchery.</p>
+                  <p>
+                     <hi>For the Gout.</hi> 
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ake a quart of Rain-water, half a pint of Ale, a little M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt, Parſly and Balm, of each a like quantity cut ſmall, and as much good Bread as will thicken it, add to this two ounces of white Su<g ref="char:EOLhyphen"/>gar, mix them well together, then juſt boil it up, ſtirring it all the while well together, and it is done; ſpread this pretty thick on a Linnen-Cloth, and ap<g ref="char:EOLhyphen"/>ply it every two or three hours, as warm as Milk from the Cow: This do three or four days.</p>
+                  <p>In ſeveral Shires they put a cold Iron-bar upon Barrels which preſerves Beer from ſouring by Thun<g ref="char:EOLhyphen"/>der.</p>
+                  <p>
+                     <hi>To hinder the Night-mare from Riding Horſes.</hi> Take a Flint and make a hole in it, and put a String thro' it, and hang it by the Manger, or about the Beaſt's Neck, and it will prevent the Night-mare.</p>
+                  <p>'Tis ſaid, That a Horſe being Bewitched, they filled a Bottle with the Horſes Urine, ſtop'd it well with a Cork, and bound it faſt in, and then Buried it under Ground, and the party fell ill that was ſuſpected to be the Witch, and could not make Water, of which ſhe died.</p>
+                  <p>
+                     <hi>To cure an Ague.</hi> Write theſe following Words in Parchment, it muſt be writ triangularly, and wear it about your Neck; 'tis ſaid one Cured above 100 with it.</p>
+                  <list>
+                     <item>Abracadabra</item>
+                     <item>Abracadabr</item>
+                     <item>Abracadab</item>
+                     <item>Abracada</item>
+                     <item>Abracad</item>
+                     <item>Abraca</item>
+                     <item>Abrac</item>
+                     <item>Abra</item>
+                     <item>Abr</item>
+                     <item>Ab</item>
+                     <item>A</item>
+                  </list>
+                  <pb n="51" facs="tcp:153741:28"/>
+                  <p>
+                     <hi>To cure the Biting of a Mad Dog.</hi> Write in a piece of paper theſe words, <hi>Rebus, Rubus, Epitepſcum;</hi> give it to the Party or Beaſt bitten, to eat, in Bread. This never fails.</p>
+               </div>
+               <div type="section">
+                  <head>To make the beſt Spirit of Scurvy-graſs.</head>
+                  <p>Take Scurvy-graſs Leaves, and ſome Horſe-Radiſh Roots ſcrap't ſmall, put them into an earthen Veſſel or Glaſs, then put as much ſtrong double Spirit of Wine as will cover it, then ſtop the Veſſel cloſe, and let it ſtand 3 days and 3 nights; then you muſt pour it off into Bottles; when it is ſettled, you may pour it off into other Glaſs-bottles, and then it's fit for to uſe. You may take of the Spirit in a Morning, from 60 to 70, 80, or 90 drops in Beer, Ale, Wine or Water, faſting two hours after it, then eat ſome Water-gruel with Bread.</p>
+               </div>
+               <div type="section">
+                  <head>How to make this Plain Spirit into a Purging Spirit.</head>
+                  <p>You muſt take a quart of the Plain Spirit, and put to it Roſin of Scammony one ounce, and of Roſin of Jallop half an ounce, both beaten to pouder, then let it ſtand 6 days, and it's done.</p>
+                  <p>Take 50, 60, 70, or 80 drops of this in Ale, Beer, or Wine; then drink a great quantity of Water-gruel after it, and ſtay within. It will purge you very well.</p>
+                  <p>Wormwood ſmoakt in Pipes, if it is well dried in the Sun and put into Paper-bags for uſe, is much bet<g ref="char:EOLhyphen"/>ter than Tobacco, for any Diſeaſes.</p>
+               </div>
+               <div type="section">
+                  <head>To make Wormwood ſupply the place of Hops, to all In<g ref="char:EOLhyphen"/>tents and Purpoſes, and pleaſe the Drinker's Palate.</head>
+                  <p>Let your Wormwood be well dryed in the Sun, then take as much of it as you pleaſe, and put it into your hot Water in your Maſh-tub, (put a quantity in, as you have occaſion to keep your Drink a longer or ſhorter time) then preſently put your Malt in, and ſtir it together as uſual; when it has ſtood the common time, draw it off, then take the Wormwood out, and add freſh to your Liquor that you put up the ſecond time, do ſo again when you put up
+<pb n="52" facs="tcp:153741:29"/> the third Liquor, if you maſh more than twice; this is much better than Hop'd-drink, and will keep five year good; the ſame we ſhall obſerve in any other Herbs. If t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is makes the Grains unfit for Cattel, by reaſon of bitterneſs, get a thin Canvas-bag, and put your Wormwood into it, and when your Drink is working in the Tun, hang this Bag in your Work<g ref="char:EOLhyphen"/>ing-drink 3 hours; then take it out, and it's done. This Drink refines the Blood, ſtrengthens the Sto<g ref="char:EOLhyphen"/>mach, and purges by Urine; and moderately drank, is good for the Head and Eyes.</p>
+                  <p>Take a peck of Meal, and divide it into two parts, and in the one part put a pennyworth of Turnips boiled, and work it and knead it by it ſelf; the 2d par<g ref="char:EOLhyphen"/>cel being baked, that Meal that had the Turnips in it proved the better Bread by far, and whiter, and more toothſom, and it's the Opinion of Phyſicians it's very healthful; beſides, it cuts better, and will con<g ref="char:EOLhyphen"/>tinue moiſt as long again: The parcel of Bread that had the Turnips in it, was 5 pounds in weight more than the other; this muſt needs be of great Advan<g ref="char:EOLhyphen"/>tage to the Public; when Cattel, Swine, and Poultry may be fed with little Charge. <hi>Hackney</hi> Turnips are the beſt for Bread, a Paſte may be made with Tur<g ref="char:EOLhyphen"/>nips to continue long, which all ſorts of Poultry would like well of, and excellent Horſe-bread may be made of it: All ſorts of Cattel and Poultry will take it ſuf<g ref="char:EOLhyphen"/>ficient without farther trouble; the Paſte is excel<g ref="char:EOLhyphen"/>lent Food for Rabbits. With Turnip-tops and Rape-cakes, or Linſeed-cakes and Grains, you may make Potage and wholſom Food for your Cows, which be<g ref="char:EOLhyphen"/>ing warm, they'l eat greedily, and give Milk in abun<g ref="char:EOLhyphen"/>dance. <hi>Holland</hi> Merchants have bought up our Rapeſeed after the Oil was preſt out, and made it in<g ref="char:EOLhyphen"/>to great Cakes, which is a great Commodity in <hi>Hol<g ref="char:EOLhyphen"/>land.</hi> The Roots and Leaves made clean and ſtamped together, then boiled in Water and given to Cows, make them give much Milk, and grow fat, if all the year you keep them up.</p>
+                  <pb n="53" facs="tcp:153741:29"/>
+                  <p>Turnips, with ſmall addition, makes very good Cyder, and an excellent Oil hath been made thereof, <hi>Probat. est.</hi> Boil Barley-chaff in Turnip-liquor, toge<g ref="char:EOLhyphen"/>ther with the Turnips and the Leaves, which make it as fatning as any Food: You may keep Rabbits with Turnip-bread all the year; the Roots and Leaves will feed Sheep and Calves very fat. The like benefit, as with Turnips, may be made of Potatoes; they make good Food, and very good Bread, Cakes, Paſte and Pyes, and are both Cruſt without, and Food within: The like benefit you may make of <hi>Jeruſalem</hi> Arti<g ref="char:EOLhyphen"/>chokes, for Poultry and Swine.</p>
+               </div>
+               <div type="section">
+                  <head>To make Clay burn as clear as any other Fire, and as uſeful.</head>
+                  <p>Take of Sea-coal, or ſmall Pit-coal, one third part, and mingle them together as you do Mortar; make them up in Balls leſs than your Head, and lay them to dry; then put them on the Fire one upon another, and obſerve the concluſion. There is a ſort of Loam, which is combuſtible of it ſelf, and will, with a few Charcoals added, burn very clear, and prove very uſeful. <hi>Probat. est.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>To make very large Crops of Corn to Admiration.</head>
+                  <p>Sow Bay-Salt on the Corn-ground.</p>
+               </div>
+               <div type="section">
+                  <head>To prevent Blaſting of Corn, under God,</head>
+                  <p>
+                     <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> change the Seed; or by ſoaking it in the beſt Muck-water, or mixing Lime and Water with it as before, and the Corn being ſteept ſeaſonably, add to it the Lime, or Aſhes, or both, and being thereby fix'd into them, and ſo ſown, hath been an excellent Remedy.</p>
+               </div>
+               <div type="section">
+                  <head>To encreaſe Corn.</head>
+                  <p>Put into quick unſlacked Lime-water, as much as ſufficeth to make it ſwim 4 inches above the Lime, and then pour it off; and unto 10 pound of the Wa<g ref="char:EOLhyphen"/>ter mix one pound of Aquavitae, and in that Liquor ſteep Wheat or other Grain 24 hours, which being dry'd in the Sun, or Air, ſteep it again in the ſame Li<g ref="char:EOLhyphen"/>quor
+<pb n="54" facs="tcp:153741:30"/> 24 hours more; then do the ſame a third time, afterwards ſow them at a great diſtance the one from the other, about a foot 'twixt each Grain, and one Grain will prove 30 or 40, or 50 Ears, and the Stalk will be as tall as any Man.</p>
+                  <p>Take Pumpions and boil them, and uſe them as you do Turnips, and they'l feed Cattel, Swine, and Poul<g ref="char:EOLhyphen"/>try: Cabbages and Coleworts will do the ſame.</p>
+               </div>
+               <div type="section">
+                  <head>To get Smut from Wheat.</head>
+                  <p>Lay firſt a layer of Barly-chaff, then a layer of ſmut<g ref="char:EOLhyphen"/>ty Wheat, and then a layer of Chaff again, then thraſh it, and it will break very fair.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Choice <hi>OBSERVATIONS.</hi>
+               </head>
+               <div type="section">
+                  <p>OF Perilous Days, and moſt dangerous in the Year, in which if any Perſon be let Blood of Vein or Wound, they ſhall die within 21 days follow<g ref="char:EOLhyphen"/>ing; or whoſoever falleth Sick on any of theſe days, ſhall die; or whoſoever taketh a Journey, ſhall die e're he comes home again: Or whoſoever Weddeth, ſhall ſoon be parted, or live in Sorrow; and who be<g ref="char:EOLhyphen"/>ginneth any great Work, it ſhall not come to a happy End; they are in.</p>
+                  <list>
+                     <item>
+                        <hi>January</hi> 7 Days. 4, 5, 10, 15, 17, 19, 27.</item>
+                     <item>
+                        <hi>February</hi> 3 Days. 8. 9, 17.</item>
+                     <item>
+                        <hi>March</hi> 3 Days. 15, 16, 21.</item>
+                     <item>
+                        <hi>April</hi> 2 Days. 15, 21.</item>
+                     <item>
+                        <hi>May</hi> 3 Days. 7, 15, 21.</item>
+                     <item>
+                        <hi>June</hi> 2 Days. 4, 7.</item>
+                     <item>
+                        <hi>July</hi> 2 Days. 15, 20.</item>
+                     <item>
+                        <hi>August</hi> 2 Days. 19, 20.</item>
+                     <item>
+                        <hi>Septemb</hi> 2 Days. 6, 7.</item>
+                     <item>
+                        <hi>October</hi> 1 Day. 6.</item>
+                     <item>
+                        <hi>Novemb.</hi> 2 Days 15, 19.</item>
+                     <item>
+                        <hi>Decemb.</hi> 3 Days. 6, 7, 11.</item>
+                  </list>
+                  <pb n="55" facs="tcp:153741:30"/>
+                  <p>Dog-days begin the 19 Day of <hi>July,</hi> and continue to the 28<hi>th</hi> Day of <hi>August:</hi> In which it is dangerous to all Sick to Purge, or let Blood; but if need be, let it be before the midſt of the Day.</p>
+               </div>
+               <div type="section">
+                  <head>To ſow Wheat in leſs quantity, and more encreaſe.</head>
+                  <p>Take Wheat, and put it into Water and Salt a Day and a Night, then before you ſow it throw it into new ſlacked-Lime, then ſow it as you do other Wheat, and the encreaſe, God willing, will be much more, and the leſs Seed may be ſowed.</p>
+               </div>
+               <div type="section">
+                  <head>A good Rule for Blood-letting, and proved True.</head>
+                  <p>Whoſo letteth Blood upon the right Arm the 10th Day of <hi>March,</hi> and the 11th Day of <hi>April</hi> in the left Arm, ſhall never loſe his ſight; and if you let Blood on the right Arm or left the 4th or 5th, and ſo to the latter-end of <hi>May,</hi> ſhall have no Fever that Year; but whoſo letteth Blood on St. <hi>Lambert</hi>'s Day, from hence he ſhall not have the running Gout, nor Palſie; and who letteth him Blood in the ſame Month, and the 3d Day before the end of the ſame Month, he needeth not let himſelf Blood on the 11th Day of <hi>April,</hi> in the which Day to let himſelf Blood on the left Arm, is good for the Palſie. Alſo theſe 3 Mon<g ref="char:EOLhyphen"/>days, if any let Blood of wound or vein, he ſhall die within 3 Days; and who is born in theſe 3 Days, he ſhall be incumbred through a ſtrange Death, <hi>viz.</hi> the firſt Monday in <hi>August,</hi> the Monday next the end of the ſame Month, and the laſt Monday of <hi>December.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>To make <hi>Flumery.</hi>
+                  </head>
+                  <p>Take half a peck of white Bran, not over-much boulted or ſifted, let it ſoak three or four days in two gallons of Water, ſtrain out the Liquid part, preſſing it hard, boil it till conſumed a third part, ſo that, when cool, i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s like a Jelly, and will keep long; when you eat <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y of it, ſeaſon it with Sugar, Roſe, or O<g ref="char:EOLhyphen"/>range-Flower-water; put a little Cream or Milk to it, and its pleaſant and wholſom nouriſhment.</p>
+               </div>
+               <div type="section">
+                  <pb n="56" facs="tcp:153741:31"/>
+                  <head>To make Milk-potage.</head>
+                  <p>Put two quarts of Water to four quarts of new Milk, and two handfuls of fine Flower, let them ſeeth gently, keeping it ſtirring to prevent burning too, and this ſweetned is very cooling and wholſom.</p>
+               </div>
+               <div type="section">
+                  <head>To make abundance of Cream.</head>
+                  <p>Take a Skimming-diſh full of the top of the Milk, add to it four Spoonfuls of ſcraped Sugar, and a drop of good Runnet, then ſtir them together, that they may thicken a little, then ſet it in a warm place, and a great deal of Cream will riſe in an hours time.</p>
+               </div>
+               <div type="section">
+                  <head>Silent Language, or to ſpeak by Signs.</head>
+                  <list>
+                     <item>A for Arm, ſtretch it forth.</item>
+                     <item>B for Brow, Eye-brow, touching it with the fore-Finger of your right Hand.</item>
+                     <item>C for Chin, touching it with your fore-Finger.</item>
+                     <item>D for Dimple, thruſting your fore-Finger againſt your Cheek.</item>
+                     <item>E for Ear, touching it with the fore-Finger.</item>
+                     <item>F for Forehead, touching it with the fore-Finger.</item>
+                     <item>G for Gullet or Throat, touching it with the fore-Finger.</item>
+                     <item>H for Hair.</item>
+                     <item>I for your Eye.</item>
+                     <item>K for Knockle.</item>
+                     <item>L for Lip.</item>
+                     <item>M for Mouth.</item>
+                     <item>N for Noſe.</item>
+                     <item>O make a Circle or O with the fore-Finger of the right Hand, on the Palm of the left Hand.</item>
+                     <item>P for Pap or Dug</item>
+                     <item>Q for quivering or ſhaking your fore-Finger of the right Hand.</item>
+                     <item>R for Rib.</item>
+                     <item>S for Shoulder.</item>
+                     <item>T for Tongue, putting it out of the Mouth.</item>
+                     <item>U for Vein, pointing the Finger where you let Blood, in the middle of the Arm.</item>
+                     <pb n="57" facs="tcp:153741:31"/>
+                     <item>W for Wriſt, graſping the left Wriſt with your right Hand.</item>
+                     <item>X Croſs your fore-Fingers.</item>
+                     <item>Y two Fingers of the right Hand, croſs the firſt of your left Hand.</item>
+                     <item>Z three Fingers of the right Hand, croſs the firſt of your left Hand.</item>
+                  </list>
+                  <p>The Uſe. Would you ſignify to your Friend pri<g ref="char:EOLhyphen"/>vately, ſuch a Man is a Sot, you point or touch with your fore-Finger, the top of your right Shoulder, that is S, then make an O, or round Circle on the Palm of your left Hand, with the fore Finger of your right Hand, then put forth your Tongue which is T; and thus you may diſcover your Mind to any Friend by the help of the Alphabet: This muſt be underſtood by you both, which may be learnt in half an hour or leſs, and all other By-ſtanders ignorant of what you do.</p>
+               </div>
+               <div type="section">
+                  <head>Rules for Blood-letting.</head>
+                  <div type="month">
+                     <head>January.</head>
+                     <p>Theſe days following are perilous to let Blood on, except the Sign be right good for Blood letting; let not Blood on the 1. 2 5. 10 15. 19. 20. nor 25. A Glaſs of Whitewine faſting, is wholſom and good to Drink.</p>
+                  </div>
+                  <div type="month">
+                     <head>February.</head>
+                     <p>Bleed not on thy Wriſt nor Arm if thou haſt need, the 4. 6. 8. 16. nor 18 day, except the Sign be very good.</p>
+                  </div>
+                  <div type="month">
+                     <head>March.</head>
+                     <p>Eat Raiſins or Figs, or ſweet Meats, and Drink and Eat hot Meats, and let Blood on the right Arm, the 5. 12. or 17 day to prevent Fevers; but the 1. 15. 16. 19. nor 28 day, except the Sign be good.</p>
+                  </div>
+                  <div type="month">
+                     <head>April.</head>
+                     <p>Bleed on the left Arm the 3. 11. or 15. it pre<g ref="char:EOLhyphen"/>vents the Head-ach, and loſs of Sight, Eat hot Meat, and freſh. Bleed not the 7. 8. 10. nor 20 day.</p>
+                  </div>
+                  <div type="month">
+                     <pb n="58" facs="tcp:153741:32"/>
+                     <head>May.</head>
+                     <p>Let Blood the 1. or 10 day, 27. or 28 day, it helps all Evil, but beware of the 3. 6 and 25 day. Riſe early and eat betimes, but eat neither Head nor Feet this Month.</p>
+                  </div>
+                  <div type="month">
+                     <head>June.</head>
+                     <p>If need be, Bleed the 28th day, but forbear the 7. 10. 15. 16. and 20 day; drink cold Water faſting, and eat temperately.</p>
+                  </div>
+                  <div type="month">
+                     <head>July.</head>
+                     <p>Keep from Venery, and Bleed not this Month, ex<g ref="char:EOLhyphen"/>cept thou haſt great need, but beware of Bleeding the 13 and 15 day, it being dangerous.</p>
+                  </div>
+                  <div type="month">
+                     <head>August.</head>
+                     <p>Bleed not the 1 day, nor the 20. 29. nor 30. the reſt of the days; Bleed if need require, forbear all manner of Worts, Meats, and Drink with Spices.</p>
+                  </div>
+                  <div type="month">
+                     <head>September.</head>
+                     <p>Bleed not the 3. 4. 16. 21. nor 22. Bleed in the 17 or 18. for Frenzy, Dropſie, Palſie, or Falling Evil, and it preſerves thee that Year, ripe Fruit not in<g ref="char:EOLhyphen"/>fected is good to eat.</p>
+                  </div>
+                  <div type="month">
+                     <head>October.</head>
+                     <p>Bleed not, except great need, and beware of the 3. 6. 14. good Wine is wholſom, if moderately drank.</p>
+                  </div>
+                  <div type="month">
+                     <head>November.</head>
+                     <p>This Month all the Blood is gathered upon the Head Vein; therefore Bleed not but for great need, Bath not, but vent a little of Grafing, for then the Humours of the Body are over-quick to Bleed, but beware if thou muſt Bleed, of the 5. 6. 15. 19. 28. and 29 day.</p>
+                  </div>
+                  <div type="month">
+                     <head>December.</head>
+                     <p>Bleed not except great need, but beware of 5. 7. 16. 17. and 22 day. Bleed the 26 day, that is not hurtful. Sleep from the Fire-ſide.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>To Cure the Hickup immediately.</head>
+                  <p>Drink a Glaſs of fair Water.</p>
+                  <pb n="59" facs="tcp:153741:32"/>
+                  <p>For the Heart-burn, ſcrape a little Chalk into ſome Water, and drink it.</p>
+               </div>
+               <div type="section">
+                  <head>To know what Years ſhall be plenteous.</head>
+                  <div type="day">
+                     <head>Sunday.</head>
+                     <p>That Year that January enters on Sunday, there will be abundance of Fleſh, great News ſhall be ſpoken of Kings and Biſhops, and of great Princes, great Wars and Robberies ſhall happen, and many young People will dye, the Winter will be Cold and Moiſt, the Summer Hot and Rainy; abundance of Corn, Wine and other Grain, Garden Fruit and Herbs, and but little Oil.</p>
+                  </div>
+                  <div type="day">
+                     <head>Monday.</head>
+                     <p>If January enters on Monday, many Ships ſhall periſh, divers Sickneſſes ſhall reign, Changes of great Lords ſhall be made, many Women will dye in Child-bed: The Winter will be peaceable, and the Summer very temperate, and great Floods ſhall happen.</p>
+                  </div>
+                  <div type="day">
+                     <head>Tueſday.</head>
+                     <p>If January enters on Tueſday, Summer will be dry and hot that Garden-Herbs cannot come forth, many Men ſhall dye of a Bloody Flux, all things but Corn will be dear, no Thundering nor Lightning, nor Tempeſt. Wines will turn and ſpoil. Winter ſhall be unſteady and changeable, great Froſt will happen in the Spring, which will hurt Rye, Vines and Flowers.</p>
+                  </div>
+                  <div type="day">
+                     <head>Wedneſday.</head>
+                     <p>If January enters on Wedneſday, Summer will be a little Cloudy, great Sickneſs will happen, many Thieves and Robbers, great War, Battel and Slaughter in the middle of the Year, at the end of the Year divers peſtilent Botches and falling Evils, the Win<g ref="char:EOLhyphen"/>ter will be temperate, at the end Snow and Froſt, the Spring ſhall be Rainy, great ſtore of Hay, Corn, Graſs and Fruit, and plenty of moſt good Things.</p>
+                  </div>
+                  <div type="day">
+                     <pb n="60" facs="tcp:153741:33"/>
+                     <head>Thurſday.</head>
+                     <p>If January enters on Thurſday, Summer will be temperate, Harveſt moſt part Rainy, Wheat cheap, Plenty of all Grain, great War and Diviſion, Taxes eaſie, Women very bad, Winter will be dry and wholſom, and the Spring very Windy.</p>
+                  </div>
+                  <div type="day">
+                     <head>Friday.</head>
+                     <p>If January enters on Friday, Summer will be un<g ref="char:EOLhyphen"/>wholſom, Harveſt dry, Corn dear, Winter long, ſtore of Hay, Graſs and Garden-Herbs, great Sick<g ref="char:EOLhyphen"/>neſs, Thundering, Lightning and Tempeſt, Earth<g ref="char:EOLhyphen"/>quakes heave thee up, many Beaſts will dye.</p>
+                  </div>
+                  <div type="day">
+                     <head>Saturday.</head>
+                     <p>If January enters on Saturday, Summer pretty temperate, Herbs and Fleſh cheap, old People dye, many Fevers and Agues, many Murthers and Vil<g ref="char:EOLhyphen"/>lanies ſhall happen, Winter temperate, the Spring<g ref="char:EOLhyphen"/>time Froſt, which will hurt Trees and Fruits.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>The Signification of Thunder.</head>
+                  <p>Thunder on Sunday ſhews that many Judges and Clerks, and divers other People will dye that Year. If on Monday it chance to Thunder, many Women and Children will dye, and the Sun will ſuffer Eclipſe. If on Tueſday it Thunder, there will be great ſtore of Grain. If on Wedneſday it Thunder, Whores and Rogues ſhall dye, and there may be great Bloodſhed. If it Thunder on Thurſday, Corn w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be very cheap. If it Thunder on Friday, it betokeneth a great Man ſhall be ſlain, and divers Murthers and other Evils. If it Thunder on Saturday, it ſignifies there may be a great Plague, whereof many ſhall dye.</p>
+               </div>
+               <div type="section">
+                  <head>On St. <hi>Paul's</hi> Day.</head>
+                  <l>If Saint <hi>Paul</hi> prove Fair and Clear.</l>
+                  <l>It doth betide a happy Year;</l>
+                  <l>But if it chance to Snow or Rain,</l>
+                  <l>Then will be dear all ſorts of Grain:</l>
+                  <l>And if the Wind be then aloft,</l>
+                  <l>Then Wars ſhall vex this Realm full oft;</l>
+                  <l>And if the Clouds make Dark the Sky,</l>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </l>
+               </div>
+               <div type="section">
+                  <pb n="61" facs="tcp:153741:33"/>
+                  <head>To ſettle your Eſtate with Prudence.</head>
+                  <p>1. Make your Will in your Health. 2. Make a Chriſtian Will. 3. Make a Prudent Will. 4. Make a Juſt Will. 5. Make a Charitable Will.</p>
+                  <p n="1">1. He that neglects to make his Will in the time of his Health, but defers it to a Sick-bed, may poſſibly never make it at all, becauſe Men are often ſuddenly and unexpectedly ſnatcht away out of this World.</p>
+                  <p n="2">2. By a Chriſtian Will, I mean, you ſhould compoſe or frame it ſo as to declare your ſelf a Chriſtian.</p>
+                  <p n="3">3. By a Prudent Will, I mean, you ſhould diſtri<g ref="char:EOLhyphen"/>bute your Eſtate, as Chriſtian Prudence will direct you, by obſerving the different diſpoſition and Behaviour of your Children, your Friends, and Dependants.</p>
+                  <p>Some are Briſk and Active in Buſineſs, will look to themſelves and ſecure their own, others are of a Quiet, Sedate and Eaſie Temper, and it may be of weak and tender Underſtandings, who do not love trouble, or do not underſtand it.</p>
+                  <p>Some are Frugal and Thrifty, who will both keep and improve what you give them, others are Wild and Extravagant, who will not be confined, nor live by Rule and Meaſure.</p>
+                  <p>Some perhaps have been Sober, Regular, Dutiful and Obedient, others Rude, Inſolent, and Diſobedient and Affronting in their Behaviour towards you.</p>
+                  <p>Now conſider with Chriſtian Prudence, and duly examine the ſeveral Circumſtances of theſe De<g ref="char:EOLhyphen"/>pendants, and diſtribute accordingly.</p>
+                  <p>If your Relations are Vicious, make Proviſion for them in Truſt, in ſuch a manner, and with ſuch Cir<g ref="char:EOLhyphen"/>cumſtances, as may relieve their Neceſſities and not their Luſts: But by no means do not caſt them quite off, for that hardens them in their Wickedneſs.</p>
+                  <p>Thoſe that are Quiet and Eaſie of Temper, en<g ref="char:EOLhyphen"/>cumber not with any thing that is li<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igious or per<g ref="char:EOLhyphen"/>plexing. Thoſe that have been Dutiful, ſhould have a mark of kindneſs ſet upon them, yet not ſo as to
+<pb n="62" facs="tcp:153741:34"/> diſinherit your Firſt-born, or to deprive him of his Birth-right: Say not, your Eſtate is your own, and you will do what you liſt, for you are but Stewards, and muſt give an account to Almighty God, how you have diſtributed and bequeathed your Eſtate.</p>
+                  <p n="4">4. Make a Juſt Will, I mean, you muſt be fully ſatisfied, that you have a Juſt Title to what you diſpoſe of as your own: You muſt not rob <hi>Peter</hi> to pay <hi>Paul,</hi> wrong one Perſon to favour another, which is too frequent.</p>
+                  <p>But know, O Man! there is a Duty called <hi>Reſtitu<g ref="char:EOLhyphen"/>tion,</hi> whereby all injurious Perſons are obliged to make a reconciling Acknowledgment, and alſo Repa<g ref="char:EOLhyphen"/>ration and Satisfaction for the wrong they have done, as far as they are able; and let me tell you, more is required to perfect our Repentance of Sins againſt our Neighbour, than of Sins againſt God only. For Sins againſt God are pardoned by Reformation and Amendment, and returning to our Duty by Sincere Obedience.</p>
+                  <p>But Sins againſt our Neighbours, are not only againſt God, but alſo an injury to Men; and though (upon Repentance) God will forgive ſo far as its againſt him, yet he will not forgive the Affront and Injury againſt Men, till we have ſought reconcilia<g ref="char:EOLhyphen"/>tion with thoſe we have offended, and made reſtitu<g ref="char:EOLhyphen"/>tion to thoſe we have wronged, by giving ſatisfaction for the damage done them. St. <hi>Augustine</hi> ſays, if a Man reſtore not ill-gotten Goods, being able, his Re<g ref="char:EOLhyphen"/>pentance is Counterfeit, and not Sincere.</p>
+                  <p n="5">5. Make a Charitable Will, that is to ſay, give ſuch Gifts to the Poor, or other Charitable uſe, as thy Chriſtian Prudence will direct thee: But do what thou canſt in thy Life-time, for one Pound then given will yield thee more comfort than a hundred on thy Death bed; for though it be a ſign of Charity and Good Will, on a Death-bed to give to the Poor, its believed by moſt People, that it's only parted with becauſe it can be kept no longer.</p>
+               </div>
+               <div type="section">
+                  <pb n="63" facs="tcp:153741:34"/>
+                  <head>The Age of Man</head>
+                  <p>Man by Courſe of Nature may Live Seventy two years, ſaith the Shepherd in his Calendar; his Reaſon is, ſo much time as a Man hath to grow in Beauty, Length, Breadth and Strength, ſo much time hath he to wax Old and Feeble to his End: But the Term to grow in Beauty, Height and Strength is Thirty ſix years, and the Term to wax Old, Feeble and Weak, and turn to the Earthward is Thirty ſix, in all Seventy two years, ſo long he ought to Live by Courſe of Nature; and they that Die before, its commonly by Violence and Outrage done to their Nature, and they that Live above, its by the good Government of themſelves. <hi>Shepard's Calendar.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Of Meaſures mentioned in Scripture.</head>
+                  <p>A Cab is a Quart, an Omer is a Quart and a half, a Seath is a Gallon and a half, an Epha is half a Buſhel and a Pottle, an Homer or Cor is fourteen Buſhels and a Pottle, half an Homer is ſeven Buſhels and a Quart, a Chemix a Quart.</p>
+               </div>
+               <div type="section">
+                  <head>Liquid Meaſures.</head>
+                  <p>A Log is half a Pint, a Hinn is three Quarts, a Bath is nine Gallons three Quarts, a Pot or Sextary is a Pint and a half, a Firkin is four Gallons and a half.</p>
+               </div>
+               <div type="section">
+                  <list>
+                     <head>Meaſures.</head>
+                     <item>A Cubit, a Foot and a half.</item>
+                     <item>An holy Cubit is a Yard.</item>
+                     <item>The Kings Cubit, a Foot and nine Inches.</item>
+                     <item>A Sabbath-days Journey, ſix hundred Paces.</item>
+                     <item>
+                        <p>
+                           <table>
+                              <row>
+                                 <cell> </cell>
+                                 <cell role="label">
+                                    <hi>l.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>s.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>d.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>A Shekel of the Sanctuary half an Ounce, worth</cell>
+                                 <cell>00</cell>
+                                 <cell>02</cell>
+                                 <cell>06</cell>
+                              </row>
+                              <row>
+                                 <cell>A Shekel in weight a quarter of an Ounce, worth</cell>
+                                 <cell>00</cell>
+                                 <cell>01</cell>
+                                 <cell>03</cell>
+                              </row>
+                              <row>
+                                 <cell>The Kings Shekel weighed three Drams, worth</cell>
+                                 <cell>00</cell>
+                                 <cell>01</cell>
+                                 <cell>10½</cell>
+                              </row>
+                              <row>
+                                 <cell>The Kings Talent nine thouſand Drams, worth</cell>
+                                 <cell>281</cell>
+                                 <cell>05</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <pb n="64" facs="tcp:153741:35"/>
+                              <row>
+                                 <cell>The Common Talent ſix thouſand Drams, worth</cell>
+                                 <cell>187</cell>
+                                 <cell>10</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>The Talent of the Temple</cell>
+                                 <cell>375</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>The Common Shekel of Gold, worth</cell>
+                                 <cell>00</cell>
+                                 <cell>15</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>The Kings Shekel of Gold, worth</cell>
+                                 <cell>01</cell>
+                                 <cell>02</cell>
+                                 <cell>06</cell>
+                              </row>
+                              <row>
+                                 <cell>A Shekel of Gold of the Temple.</cell>
+                                 <cell>01</cell>
+                                 <cell>10</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>A Common Talent of Gold.</cell>
+                                 <cell>2250</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>The Kings Talent of Gold.</cell>
+                                 <cell>3375</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>A Talent of Gold of the Sanctuary</cell>
+                                 <cell>4500</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>A Mina of Silver ſixty Drams, worth</cell>
+                                 <cell>01</cell>
+                                 <cell>17</cell>
+                                 <cell>06</cell>
+                              </row>
+                              <row>
+                                 <cell>The Kings Mina</cell>
+                                 <cell>02</cell>
+                                 <cell>10</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>The Mina of the Temple.</cell>
+                                 <cell>03</cell>
+                                 <cell>02</cell>
+                                 <cell>06</cell>
+                              </row>
+                              <row>
+                                 <cell>A Gerah.</cell>
+                                 <cell>
+                                    <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>0</cell>
+                                 <cell>00</cell>
+                                 <cell>01½</cell>
+                              </row>
+                              <row>
+                                 <cell>A Drachm.</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>07½</cell>
+                              </row>
+                              <row>
+                                 <cell>Two Mites.</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                                 <cell>00¼</cell>
+                              </row>
+                           </table>
+                        </p>
+                     </item>
+                     <item>A Mile is a thouſand Paces.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Directions to cut a Shift out of two Ells of Holland, as long and large as moſt People ſhall do out of two Ells and a Quarter.</head>
+                  <p>If you will cut but one Shift Ell and half long, take two Ells of Holland and flit it through the middle; let it be Ell wide or Yard wide, according as the big<g ref="char:EOLhyphen"/>neſs of your Body requires, and when ſplit through the middle, inſtead of taking one half breadth, and juſt the ſame length of the other half breadth for the Body, cut an Ell and a quarter off one of the half breadths, and juſt the ſame length off the other half breadth, which take for the Body of your Shift, then take the Remainder of one of the half breadths and double it, then lay it acroſs and cut it for your Gores, then take the other Remainder of the breadth and double it, and cut it in the middle, which makes juſt a pair of Sleeves, then you want on<g ref="char:EOLhyphen"/>ly for the Guſſets, which will come out of the hol<g ref="char:EOLhyphen"/>lowing of the Neck of your Shift; which rule you may obſerve in cutting out four or five Shifts, for when you cut out two, take a Body off one of the
+<pb n="65" facs="tcp:153741:35"/> half breadths, and a Body off the other, and when you cut ſix, take three off one of the half breadths and three off the other, and by that means you may cut them what length in reaſon you pleaſe; whereas if you take your Bodies all off one piece, you can make them but two Ells long, and by this means you ſave a quarter of an Ell in the cutting out of each Shift.</p>
+               </div>
+               <div type="section">
+                  <head>A Treatiſe of <hi>BEES,</hi> and their management, that they may redound to Profit and Advantage.</head>
+                  <p>Bees are not only delightly to behold, but very profitable if well managed, in order to which I ſhall briefly give directions.</p>
+                  <p>If you have no Stock of Bees, but muſt be obliged to purchaſe them, you muſt be ſure to carry them gently in a Sheet between two Perſons on a Pole in the Night-time, that they be not diſturbed, nor their Combs diſordered or put out of frame; and the beſt time to remove them, is in April, not carrying them from a pleaſant to an unpleaſant place, leaſt through that diſlike they leave you; nor muſt you open them after you have placed them in your Garden, till you find them at reſt, which you may do by the Ceſſation of their noiſe and humming, and be ſure ſo to place them, that the Hives mouth may ſtand towards the Riſing-Sun; obſerving that the Air and Waters, as well as Herbs, Trees and Flowers about them be ve<g ref="char:EOLhyphen"/>ry wholſom; for thoſe they moſt delight in, are Roſe<g ref="char:EOLhyphen"/>mary, Caſſia, Thyme, Savory, Sage, Violets, Laven<g ref="char:EOLhyphen"/>der, Balm, Marjoram, wild Thyme, Saffron, Bean<g ref="char:EOLhyphen"/>flowers, Muſtard-ſeed, Flowers, Pinks, Melilot, Pop<g ref="char:EOLhyphen"/>pies, Roſes, <hi>&amp;c.</hi> And thoſe they diſlike, which often makes them leave their Maſters and wander, are Wormwood, wild Cucumbers, Cornels, Elms, Spurge, Lawrel, Southernwood and all bitter Herbs and Trees, delighting moſt in Valleys near pleaſant purling Streams; and the beſt Honey is extracted from Thyme, the ſecond beſt from wild Thyme, and the
+<pb n="66" facs="tcp:153741:36"/> third from Roſemary, though there is good Honey where none of theſe grow.</p>
+                  <p>In the beginning of April the Bees look out and begin to work, and if they ſtand in a pleaſant place, they will work ſo cheerfully, that they will afford Honey three times in the Summer, <hi>viz.</hi> about the latter-end of May, the latter-end of July, and the latter-end of Auguſt, if the Summer be temperate; tho' if you would have them ſubſiſt well in Winter, to take their Honey in May and July is ſufficient.</p>
+                  <p>If it happen that by reaſon of a young Brood, the Hive be over-charged, which by their cluſtering about the mouth of it, and their great noiſe of humming, you may plainly diſcern, prepare a new Hive in readi<g ref="char:EOLhyphen"/>neſs rubbed with ſweet Herbs, and obſerve the coming forth of the young Bees for ſeveral days, from eight of the Clock till twelve in the Morning, leſt coming out on a ſudden, and taking the Wing, they bid you farewel; and if they delay to come forth, you may with Galbanum and Roſin drive out the whole Stock; and if there happen to be two Maſter Bees, they will divide and ſettle apart, and ſo you will have oppor<g ref="char:EOLhyphen"/>tunity to Hive them; and in Winter, if their Stock of Honey fail, you muſt put in Honey, Sugar, Raiſins, Figgs <hi>&amp;c.</hi> gently with a ſlite Cane, and cover them with warm Houſings of Straw, and they will greatly encreaſe to your Profit.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Leſſius</hi> his Directions for a right Courſe of preſerving Health.</head>
+               <div type="introduction">
+                  <p>DIvers have written on this Subject, but they charge Men with ſo many Rules, ſo much Ob<g ref="char:EOLhyphen"/>ſervation and Caution, about quantity and quality of Meats and Drinks, about Sleep, Air, Exerciſe, Blood<g ref="char:EOLhyphen"/>letting, Purging, and the like, that it makes it per<g ref="char:EOLhyphen"/>fect Slavery to perform what they enjoyn: And Men
+<pb n="67" facs="tcp:153741:36"/> on the other hand will pleaſe their own Mind, and eat of every thing they beſt like, to their fill; ſo that neither Precepts nor Obſervations ſignifie any thing at all for matter of benefit. Hereupon they bid adieu to all Phyſicians or Counſel, and leave all to Nature, eating perhaps two or three times a day, without reſtraint in meaſure or quality of Foods, but as their Appetite leads them on, ſo fall to buſineſs inſtantly; neither can they be perſwaded to Purge at fitting Seaſons, or before Diſeaſes oppoſe them, ſuppoſing all well when they feel nothing to the contrary: Here upon their Bodies in time are filled with ill Hu<g ref="char:EOLhyphen"/>mours, which are increaſed by length of time, and become putrified and of a malignant Temper, ſo that upon every light occaſion of Heat or Cold, Wind or Weather, extraordinary Labour, or any other Ex<g ref="char:EOLhyphen"/>ceſs, they are inflamed, and break out into mortal Sickneſs and Diſeaſes. Many People beſide my ſelf have found benefit by the Obſervations following, which conſiſts in a <hi>Right ordering the Dyet, and in a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ertain Moderation of our Meat and Drink;</hi> ſuch a moderation I mean, as brings Strength and Vigour both to Mind and Body. So that what is here in<g ref="char:EOLhyphen"/>tended, will furniſh Religious Perſons with ſuch a way and manner of Living, that they may with <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ore Eaſe, Cheerfulneſs and Alacrity, apply them<g ref="char:EOLhyphen"/>ſelves to the Service of the <hi>Great God,</hi> for it is ſcarce<g ref="char:EOLhyphen"/>ly to be believed, what Alacrity and inward Conſo<g ref="char:EOLhyphen"/>lation they find that addict themſelves to Sobriety.</p>
+               </div>
+               <div type="section">
+                  <head>What is meant by a Sober Life, and what is a fit meaſure of Meat and Drink.</head>
+                  <p>I call that a <hi>Sober Life</hi> or <hi>Dyet,</hi> which ſets bounds both to Meat and Drink, ſo that a Man muſt not Eat nor Drink more than the Conſtitution of his Bo<g ref="char:EOLhyphen"/>dy allows, with reference to the ſervices of the Mind, and this I term an Orderly, Regular and Temperate Life or Diet; this will alſo reach unto Care in ordering all other things, ſuch as immode<g ref="char:EOLhyphen"/>rate
+<pb n="68" facs="tcp:153741:37"/> Heat or Cold, overmuch Labour and the like, through Exceſs whereof there grows any Inconve<g ref="char:EOLhyphen"/>niency in Body, Health, or diſturbance in the Ope<g ref="char:EOLhyphen"/>ration of the Mind.</p>
+                  <p>Now this meaſure is different, according to the diverſity of Conſtitutions and Ages. For one kind of proportion belongs to Youth, another to Con<g ref="char:EOLhyphen"/>ſiſtency, a third to Old-Age; the Whole and the Sick have alſo their ſeveral meaſures, as alſo the Phlegmatick and the Cholerick, becauſe that in theſe Conſtitutions, the Nature and Temper of the Stomach is very different: Now the meaſure of the Food ought to be exactly proportioned, as near as may be, to the quality and condition of the Stomach; and that meaſure is exactly proportioned, which the Stomach hath ſuch power and maſtery over, as it can perfectly concoct and digeſt in the midſt of any Em<g ref="char:EOLhyphen"/>ployment that is of Body or Mind, which withal ſuf<g ref="char:EOLhyphen"/>ficeth to the due nouriſhment of the Body. <hi>I ſay in the midſt of any Employment of Mind or Body,</hi> be<g ref="char:EOLhyphen"/>cauſe that a greater meaſure is requiſite to him that is occupied in Bodily Labour, and continually exer<g ref="char:EOLhyphen"/>ciſing the Faculties of the Body, than to him that is always in Studies, Meditation, and other like Exerciſe of the Mind: For half ſo much commonly ſerve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their turn, who are imployed in Study and Affai<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of the Mind, as they that apply themſelves to Bodily exerciſe, tho' equal Age and Temper might other<g ref="char:EOLhyphen"/>wiſe perhaps require an equality in both their Dyets.</p>
+                  <p>Now the difficulty lies in finding out this mea<g ref="char:EOLhyphen"/>ſure, the non-obſervance whereof cauſes Catarrhs, Coughs, Head-ach, pains in the Stomach, Fever and the like, which many People will hardly believe, but lay the fault on Wines, ill Air, Watching, too much pains-taking and other like outward cauſes, but queſtionleſs, they are in the wrong, for its a want of a due meaſure in Eating and Drinking, that cauſes theſe before-named Diſtempers; and its impoſſible
+<pb n="69" facs="tcp:153741:37"/> that any one certain meaſure ſhould be found pro<g ref="char:EOLhyphen"/>portionable to all ſorts of different Complexions and Stomachs, ſo that what is reaſonable to a Young and Strong Body, is twice too much for an Old or Infirm Perſon.</p>
+                  <p>The Allowance then for all, is to keep within the bounds of Temperance, for whatſoever exceeds this meaſure, is to be accounted Vice, be it on what oc<g ref="char:EOLhyphen"/>caſion it will, whether of Marriage, Feaſting, or any thing elſe whatever; now that is always Exceſs, which proves more in quantity than the Stomach can perfectly digeſt without leaving Crudities behind.</p>
+               </div>
+               <div type="section">
+                  <head>Rules for finding out the Right Meaſure.</head>
+                  <p>The firſt Rule is, If thou doſt uſually take as much Food at Meals, as thou art thereby made unfit for the Duties and Offices belonging to the Mind, ſuch as are Studies of Learning, Prayer, and the like; its evident thou doſt exceed meaſure. So that when<g ref="char:EOLhyphen"/>ever ſo much Food is taken, as proves of any Remark<g ref="char:EOLhyphen"/>able offence or hinderance to the Operation of the Superiour Faculty, to wit, of the Senſes, Imagination, the Underſtanding or Memory, then it is a ſign the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itting meaſure is exceeded: For they who follow a ſober Courſe of Life, are as ready for all Services and Employments of the Mind after their Meats, as before.</p>
+                  <p>The ſecond Rule is, If after Meat and Drink thou findeſt a certain kind of Dullneſs, Heavineſs, Sloath<g ref="char:EOLhyphen"/>ful wearineſs, whereas before thou waſt quick and lightſome, its a ſign thou haſt exceeded the fitting meaſure, except it come to paſs by Sickneſs, or the reliques of ſome former Diſeaſe. For Meat and Drink ought to refreſh the Body, and make it more Cheerful, and no ways to burden or oppreſs it. They therefore that find their Conſtitution to be ſuch, as they feel oppreſſion after Meals, ought to make a<g ref="char:EOLhyphen"/>batement of their daily allowance, having firſt uſed diligent Conſideration, whether this Inconveniency ariſe from the Abundance of their Meat and Drink,
+<pb n="70" facs="tcp:153741:38"/> or both together; and when they have found out where the Error lies, its by degrees to be amended, till the matter be brought to that paſs, that there be no more feeling of any ſuch Inconveniency. There<g ref="char:EOLhyphen"/>fore, if a Man deſires to be always quick, apt and ready to motion, and every other uſe of his Senſes, theſe Humors are to be leſſen'd by abatement of Diet, ſo that the Spirits may have their free Paſſage thro' all parts of the Body, and the Mind may find them always ready to every motion and ſervice of the Body.</p>
+                  <p>The third Rule is, Do not paſs immediately from a diſordered kind of Life, to a ſtrict and preciſe courſe, but do it by little and little; abating from that quantity we had been accuſtomed to, till at laſt we come to a juſt meaſure, which doth not at all op<g ref="char:EOLhyphen"/>preſs the Body, nor offend and hinder the Operati<g ref="char:EOLhyphen"/>ons of the Mind: This is the Opinion of all Phyſici<g ref="char:EOLhyphen"/>ans, that its dangerous to be driven off forcibly from that which a Man hath been long accuſtomed to; but we muſt break off old uſages by degrees, and not all at once, going backward ſtep by ſtep, as we grow on toward them, ſo the alteration will be leſs difficult in performance.</p>
+                  <p>The fourth Rule is, That though there cannot be a juſt quantity ſet for all, by reaſon of the great dif<g ref="char:EOLhyphen"/>ference of Age, Strength, and other Diſpoſitions in Men, and alſo in reſpect to the great diverſity in the Nature and quality of ſeveral ſorts of Food; yet I think for thoſe that are ſtricken in Years, and thoſe of weak Cnſtitutions, thirteen or fourteen ounces of Food a day ſhould be enough, accounting into this proportion, Bread, Fleſh, Eggs, and all other ſorts of Victuals; and about as many ounces of Drink would ſuffice; this is to be underſtood of thoſe who uſe but little Exerciſe of Body, and are altogether ad<g ref="char:EOLhyphen"/>dicted to Study, and the like.</p>
+                  <p>I could inſtance divers that have obſerved this meaſure, that have lived to an extream old Age,
+<pb n="71" facs="tcp:153741:38"/> that have paſſed their Lives only with Water, Bread, Pulſe, Herbs or Fruits, about ſixteen ounces of Water, and ſixteen ounces of Bread and Herbs: How much more then, may ſeven ounces of Bread and ſeven ounces of other choice Victuals ſuffice, which yields double the Nutriment, conſidering withal, inſtead of Water which ſerved their turn, we now drink Beer or Wine, which yields much Nutri<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>And altho' I ſpeak now of weak Perſons, and thoſe that are declining in Years, yet I hold it probable that the aforeſaid meaſure is large enough, for the moſt part, even for thoſe that are in Health, and Strong, in the Flower of their Age; if they be ſuch that give themſelves to Study, and the like.</p>
+                  <p>The fifth Rule is, That touching the quality of the Food, there is no great care to be had: If ſo be a Man is of a healthful Conſtitution, and find that the Meat he eats does not offend nor harm him, for moſt ſorts of Meat agree with healthful Conſtitutions: If ſo be right a quantity and meaſure be kept, ſo that without queſtion a Man may live long, and in Health on Bread only, with Milk, Butter and Cheeſe, Beer or Water; eſpecially if he has been accuſtomed from a Child to them, but from all Foods thou findeſt a prejudice; abſtain, tho' the reliſh and taſte be never ſo well. Of this ſort are moſt fat Meats, which are to be uſed ſparingly, and eaten with ſtore of Bread; that the Damage they bring may (in part) be avoid<g ref="char:EOLhyphen"/>ed: And in a word, all Victuals that breed Damage to the Conſtitution of the Body, or Impediment to the Functions of the Mind, are to be avoided.</p>
+               </div>
+               <div type="section">
+                  <head>Of <hi>DREAMS.</hi>
+                  </head>
+                  <p n="1">1. By Dreams the Natural Temperament and Complexion, and the ſecret Diſeaſes of Perſons, are as ſoon or ſooner found out, than by any outward Signs.</p>
+                  <pb n="72" facs="tcp:153741:39"/>
+                  <p n="2">2. By Dreams ſcarce any thing diſcovers the ſe<g ref="char:EOLhyphen"/>cret bent of our Minds and Inclinations to Vice and Virtue, theſe Nocturnal Sallies diſcover Pride, Co<g ref="char:EOLhyphen"/>vetouſneſs, Senſuality, or the like, more free and un<g ref="char:EOLhyphen"/>diſguiſed than when we are awake.</p>
+                  <p n="3">3. Dreams are the cleareſt Natural Arguments of the Immortality of the Soul, as alſo one of the uſual ways that God revealed himſelf by, of Old, to Holy Men: Its alſo one promiſe, that under the Goſpel Diſpenſation their Young Men ſhould ſee Viſions, and their Old Men dream Dreams. Therefore, whoſoever will conſider what is here written in ſhort, may find ſome remarkable cauſe to conſider, that ſuch a Treatiſe is not altogether uſeleſs.</p>
+                  <p>Sometimes Dreams are the effects of the Planets Influences, and carry with them the Reſemblance of that Planet, from whence they proceed. As,
+<list>
+                        <item>1. If the Saturnine property carry the upper Do<g ref="char:EOLhyphen"/>minion in Barthy Signs, then thoſe Dreams are Dull, Sad, Heavy, Frightful, and Filled with Fear and Sorrow.</item>
+                        <item>2. If Mars, or the Martial fierce Fire, have the chief Government; then Dreams are Fiery, filled with Wrath, Paſſion, Fear and Trembling, Amazing and Affrighting, cauſing the Perſon often to awake, as alſo his Limbs to tremble for Fear.</item>
+                        <item>3. If Jupiter, or the Jovial Nature predominate, then Dreams are more Mild, Grave and Moderate.</item>
+                        <item>4. If Venus rule the Complexion, Dreams are pleaſant and delightful.</item>
+                        <item>5. If Mercury rule, Dreams are mixt and oft<g ref="char:EOLhyphen"/>times confuſed.</item>
+                        <item>6. If Sol rule, Dreams will be of great Light, Ho<g ref="char:EOLhyphen"/>nour and Dignity and of Splendid Things.</item>
+                        <item>7. If the Moon predominates, Dreams are uncon<g ref="char:EOLhyphen"/>ſtant, mixed with Truth and Falſhood, and confuſed.</item>
+                     </list>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:153741:39"/>
+            <head>A <hi>Catalogue</hi> of Books, ſold at the Gold Ring in <hi>Little-Baittain.</hi>
+            </head>
+            <list>
+               <item>THe Anglers ſure Guide, Shewing when and how to ga<g ref="char:EOLhyphen"/>ther the beſt Materials for Fiſhing.
+<p>The moſt Proper Baits, and how to Order them, and your Tackle. 1. The names of Fiſh, their Haunts, Spaw<g ref="char:EOLhyphen"/>ning time, <hi>&amp;c.</hi> The way to take them and, Various ways of dreſſing them; to Store Fiſh, Ponds wherein the Angler is Puniſhable by Law, Preſidents and Licenſes for Angling, <hi>&amp;c.</hi> Adorn'd with Copper Cuts, by <hi>R. H.</hi> 
+                     <abbr>Eſq</abbr> 40 Years a Practitioner. price 2<hi>s.</hi> 6<hi>d.</hi>
+                  </p>
+               </item>
+               <item>2. The Compleat Fiſher, being a ſpeedy way of taking all ſorts of Freſh Fiſh, with Baits Natural and Artificial, their Haunts, Seaſons, and how to Angle for them in all Weathers, at top or bottom, Night Baits, Oyl and Oyntments, to make Oyl of Aſper, and many other Secrets in any bug, alſo to Fiſh in <hi>Hackney River,</hi> by <hi>J. S.</hi> a Brother of the Angler the 3<hi>d.</hi> Edition. price 6<hi>d.</hi>
+               </item>
+               <item>3. The way to get Wealth, directing to make 23 ſorts of Engliſh Wine equal to French, Cyder equal to Canary, to make Wine of all ſorts of Herbs, to make 40 ſorts of Ale in a Minute, to remember all you Read or do, to make Corn produce a Treble Crop, A book of Knowledge, for all Perſons of all Countries Containing Ac<g ref="char:EOLhyphen"/>counts Caſt up. Rates of Carmen, Watermen and Coach<g ref="char:EOLhyphen"/>men, Receipts, and to Recover bad Debts, to Preſerve the Eyes, and divers other Rarities. price 1 <hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item>4. The way to ſave Wealth, to Live for 2 <hi>d</hi> a Day, a Hundred Diſhes of Meat, without either Fiſh, Fleſh or Fowl, Bread of Herbs and Roots to make, Cheap Liquor to Brew, to feed Horſe without Hay. Vermin to de<g ref="char:EOLhyphen"/>ſtroy, Silk-worms to Order, Aſſices of Bread, Cattle and Poultry to order, to make Cyder, Perry, and Artificial Wines, Land to Improve by Hops, Flax, Liquoriſh; A<g ref="char:EOLhyphen"/>rithmetical Queſtions, Sports and Paſtime, the way to Live long, and divers other Curioſities, <hi>&amp;c.</hi> price 1<hi>s.</hi> 6<hi>d.</hi>
+               </item>
+               <item>5. 1000 Notable things, directing to Read Write and Indite Letters, to ſpeak any Language in a ſhort time, as fluent as a Native, Cuſtoms of <hi>London,</hi> modern Curioſities, Monthly obſervations in Gardning, <hi>&amp;c.</hi> Birds to Catch <hi>&amp;c.</hi> The Virtue of Dullidge-water, to take ſpots of Oly Pitch, <hi>&amp;c.</hi> out of Linnen Woollen, <hi>&amp;c.</hi> German Ball<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to make, to Live long, Dreams and M<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es, Signification, <hi>&amp;c.</hi> Ink to make of all ſorts, Sealing Wax and Wafers. Bees to Preſerve, Cov<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>url and Butlers Ale to make, ſhort Writing, with above with 900 other <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
